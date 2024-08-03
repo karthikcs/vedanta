@@ -18,7 +18,7 @@
 गोविन्दं परमानन्दं सद्गुरुं प्रणतोऽस्म्यहम् ॥ १ ॥
 
 Meaning: 
-Sri Shankaracharya writes, that he bows down to my guru Sri Govinda Bhagavadpada, the supreme bliss, the true guru, who is beyond the reach of darkness (ignorance) and is the essence of all Vedantic principles.
+Sri Shankaracharya writes, that he bows down to his guru Sri Govinda Bhagavadpada, the supreme bliss, the true guru, who is beyond the reach of darkness (ignorance) and is the essence of all Vedantic principles.
 
 ## Shloka 2:
 
