@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vedanta-notes/vedanta-panchadashi/vedanta-panchadashi/"}
+{"dg-publish":true,"permalink":"/vedanta-notes/vedanta-panchadashi/vedanta-panchadashi/","tags":["vedanta"]}
 ---
 
 
