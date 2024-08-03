@@ -41,5 +41,21 @@ Sound, touch, and other objects of knowledge are distinct in wakefulness due to 
 
 This verse explains that in the waking state, our perceptions of sound, touch, and other objects appear distinct due to their different qualities. However, the underlying reality is that all these perceptions arise from a single consciousness. This consciousness is the unifying principle behind all diversity.
 
+>[!tip]- Pancha Mahaabhuta (पांच महाभूतानि) - 5 Basic elements 
+>*Akaasha (आकाश ) - Space*: From space we get the perception of शब्द (sound)
+>*Vaayu (वायु) - Air*:  From air we get perception of स्पर्श (touch)
+>*Teja (तेज) - Light/Heat* :  From light we get the perception of रूप (vision)
+>*Aapa (आप ) - Water*: From water we get the perception of रस (taste )
+>*Pruthvi (पृथ्वी) - Earth*:  From earth we get the perception of गंध (smell)
+
+
+
+
+
+| col1 | col2 |
+| ---- | ---- |
+|      |      |
+
+
 ## Shloka 4:
 
