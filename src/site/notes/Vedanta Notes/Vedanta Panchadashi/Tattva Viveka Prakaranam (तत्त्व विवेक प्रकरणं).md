@@ -39,6 +39,9 @@ Establishing the fact of permanence and infinity of knowledge.
 
 Sound, touch, and other objects of knowledge are distinct in wakefulness due to their diversity. But they are not different from the one consciousness that is their essence. ॥ 3 ॥
 
+> [!tip]- Avastha traya (अवस्था त्रय) - 3 States of consciousness
+**Jagrt (जागृत), Swapna (स्वप्न), and Sushupti (सुषुप्ति)** are terms in #vedanta that refer to the three states of consciousness in human experience, waking state, dream state and deep sleep state.
+
 This verse explains that in the waking state, our perceptions of sound, touch, and other objects appear distinct due to their different qualities. However, the underlying reality is that all these perceptions arise from a single consciousness. This consciousness is the unifying principle behind all diversity.
 
 >[!tip]- Pancha Mahaabhoota (पांच महाभूतानि) - 5 Basic elements 
@@ -49,6 +52,35 @@ This verse explains that in the waking state, our perceptions of sound, touch, a
 >*Pruthvi (पृथ्वी) - Earth*:  From earth we get the perception of गंध (smell)
 
 
-
 ## Shloka 4:
+
+जागरे संविदः एकरूपतां निरूप्य स्वप्नेऽप्यतिदिशति । तथैव ।
+
+Having established the oneness of consciousness in wakefulness, it is also explained in dreams. Similarly...
+
+तथा स्वप्नेऽत्र  वेद्यं तु न स्थिरं जागरे स्थिरम् । 
+तदभेदोऽतस्तयोस्संविदेकरूपा न भिद्यते ॥ ४ ॥
+
+Similarly, in dreams, the object of knowledge is not stable, nor is it stable in wakefulness. Therefore, the consciousness that is the essence of both is not different. ॥ 4 ॥
+
+This verse highlights the concept that while the experiences in the dream state and the waking state may seem different in terms of stability, the underlying consciousness that experiences both is the same and undivided.
+
+## Shloka 5:
+
+अनन्तरं सौषुप्तिकसंविदोऽप्येकत्वविवक्षया आदौ तदस्तित्वं साधयति, सुप्तेति ।
+
+Similarly, even in deep sleep, there is no multiplicity in consciousness, which proves its oneness. The wise ones affirm this in the beginning |
+
+This sentence indicates that the text will now focus on the deep sleep state (sushupti) and aim to establish that even in this state, consciousness is one and undivided. It starts by asserting the existence of the deep sleep state itself.
+
+सुप्तोत्थितस्य सौषुप्तिकतमो बोधो भवेत् स्मृतिः । 
+सा चाऽवबुद्धाविषयाऽवबुद्धं तत्तदा तमः ॥ ५ ॥
+
+Upon waking from deep sleep, the ignorance experienced during deep sleep is remembered. This ignorance is recognized as an object by the awakened mind ॥ 5 ॥
+
+The verse emphasizes the continuity of consciousness and memory across different states of being. Even though one may not be actively aware during deep sleep, upon waking, one can recall that state of deep sleep as a period of ignorance. This recollection is possible because the underlying consciousness remains constant, providing a basis for memory and awareness across different states.
+
+
+## Shloka 6
+
 

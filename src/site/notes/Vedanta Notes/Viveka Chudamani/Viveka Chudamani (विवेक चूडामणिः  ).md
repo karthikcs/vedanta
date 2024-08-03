@@ -67,4 +67,5 @@ Note: In some of the shlokas Adi Shankaracharya is highlighting multiple times  
 आत्मैक्यबोधेन विना विमुक्तिः न सिध्यति ब्रह्मशतान्तरेपि ।।६।।
 
 Meaning:
-Let them study the scriptures, worship the gods, perform rituals, and serve the deities. Without the realization of oneness with the Brahma , liberation cannot be attained even after hundreds of cosmic cycles.
+Even though people study the scriptures, worship the gods, perform rituals, and serve the deities. Without the realization of oneness with the #Brahma , liberation cannot be attained even after hundreds of cosmic cycles.
+
