@@ -4,6 +4,9 @@
 
 # Introduction
 
+[Book Archive]([Vivekachudamani of Sri Sankaracharya [microform] : text, with English translation, notes and an index (archive.org)](https://dn790005.ca.archive.org/0/items/vivekachudamanio00sankrich/vivekachudamanio00sankrich.pdf))
+
+
 
 >[!tip ] Meaning of Viveka (विवेक) and Chudamani (चूडामणिः)
 > Viveka means the ability to understand the differences between things. From vedanta perspective, it is ability to discriminate Brahma (ब्रह्म) from non-Brahma
