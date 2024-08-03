@@ -81,6 +81,6 @@ Upon waking from deep sleep, the ignorance experienced during deep sleep is reme
 The verse emphasizes the continuity of consciousness and memory across different states of being. Even though one may not be actively aware during deep sleep, upon waking, one can recall that state of deep sleep as a period of ignorance. This recollection is possible because the underlying consciousness remains constant, providing a basis for memory and awareness across different states.
 
 
-## Shloka 6
+
 
 
