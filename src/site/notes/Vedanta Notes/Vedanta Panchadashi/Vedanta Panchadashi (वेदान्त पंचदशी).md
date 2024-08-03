@@ -7,7 +7,7 @@ This is a work by Sri Vidyaranya. It is a concise summary of all the vedanta con
 
 Let us learn chapter by chapter 
 
-1. [[Vedanta Notes/Vedanta Panchadashi/Tattva Viveka Prakaranam (तत्त्व विवेक प्रकारणं)\|Tattva Viveka Prakaranam (तत्त्व विवेक प्रकारणं)]]
+1. [[Vedanta Notes/Vedanta Panchadashi/Tattva Viveka Prakaranam (तत्त्व विवेक प्रकरणं)\|Tattva Viveka Prakaranam (तत्त्व विवेक प्रकरणं)]]
    
    We need to understand that the word #Tattva  in vedanta means the idea of #Brahma. Again the word Brahma is not चतुर्मुख ब्रह्मा  (4 headed God of creation), instead it is supreme knowledge which is omnipresence. The characteristics of Brahma is told in following 3 words 
    * Satyam (सत्यम)

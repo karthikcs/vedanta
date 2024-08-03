@@ -24,7 +24,7 @@ In this journal we will study different works by great scholars like Adi #Shanka
 ## [[Vedanta Notes/Vedanta Panchadashi/Vedanta Panchadashi (वेदान्त पंचदशी)\|Vedanta Panchadashi (वेदान्त पंचदशी)]]
 
 >[!tip]- Chapters
-[[Vedanta Notes/Vedanta Panchadashi/Tattva Viveka Prakaranam (तत्त्व विवेक प्रकारणं)\|Tattva Viveka Prakaranam (तत्त्व विवेक प्रकारणं)]]
+[[Vedanta Notes/Vedanta Panchadashi/Tattva Viveka Prakaranam (तत्त्व विवेक प्रकरणं)\|Tattva Viveka Prakaranam (तत्त्व विवेक प्रकरणं)]]
 
 
 
