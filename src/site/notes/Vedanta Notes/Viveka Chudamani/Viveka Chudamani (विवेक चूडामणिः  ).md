@@ -69,3 +69,17 @@ Note: In some of the shlokas Adi Shankaracharya is highlighting multiple times  
 Meaning:
 Even though people study the scriptures, worship the gods, perform rituals, and serve the deities. Without the realization of oneness with the #Brahma , liberation cannot be attained even after hundreds of cosmic cycles.
 
+
+## Shloka 7:
+
+अमृतत्वस्य नाशास्ति वित्तेनेत्येव हि श्रुतिः । 
+ब्रवीति कर्मणो मुक्तेः अहेतुत्वं स्फुटं यतः ॥७॥
+
+Indeed, the scripture declares that there is no immortality through wealth. It clearly states that liberation (moksha) is not caused by actions (karma). ॥ 7 ॥
+
+This verse emphasizes the idea that true immortality or liberation cannot be achieved through material wealth or worldly actions. It suggests that spiritual enlightenment and freedom (moksha) are not the results of material accumulation or mere ritualistic actions. Instead, it implies that liberation is attained through knowledge, wisdom, and spiritual practices that transcend worldly desires
+
+## Shloka 8
+
+
+
