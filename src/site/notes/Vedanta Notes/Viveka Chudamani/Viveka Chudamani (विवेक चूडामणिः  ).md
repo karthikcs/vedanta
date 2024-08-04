@@ -81,5 +81,12 @@ This verse emphasizes the idea that true immortality or liberation cannot be ach
 
 ## Shloka 8
 
+अतो विमुक्त्यै प्रयतेत विद्वान् संन्यस्तबाह्यार्थ-सुखस्पृहः सन् । 
+सन्तं महान्तं समुपेत्य देशिकं तेनोपदिष्टार्थ-समीहितात्मा ।।८।।
+
+This verse suggests that to attain liberation, one should renounce worldly desires and seek guidance from a spiritually enlightened teacher. By following the teachings of such a teacher, one can align their mind and actions towards the path of liberation. ॥ 8 ॥
+
+## Shloka 9
+
 
 
