@@ -4,7 +4,8 @@
 
 # Introduction
 
-[Book Archive]([Vivekachudamani of Sri Sankaracharya [microform] : text, with English translation, notes and an index (archive.org)](https://dn790005.ca.archive.org/0/items/vivekachudamanio00sankrich/vivekachudamanio00sankrich.pdf))
+[Book Archive]((https://dn790005.ca.archive.org/0/items/vivekachudamanio00sankrich/vivekachudamanio00sankrich.pdf)
+
 
 
 
