@@ -102,7 +102,7 @@ We need understand that before even thinking to find a #Guru for ultimate knowle
 > 2. इहाऽमुत्रार्थ फल भोगविरागम्
 > 3. शमादि षट्क सम्पत्ति
 > 4. मुमुक्षुत्वम्
-> For more details read [[Vedanta Notes/General/Sadhana Chatushtaya - साधन चतुष्टय\|Sadhana Chatushtaya - साधन चतुष्टय]] 
+> For more details read [[Vedanta Notes/General Terms/Sadhana Chatushtaya - साधन चतुष्टय\|Sadhana Chatushtaya - साधन चतुष्टय]] 
 
 
 
