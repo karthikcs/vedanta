@@ -60,7 +60,7 @@ Having obtained the rare human birth somehow, and then also the state of being a
 Meaning: 
 What greater fool is there than the man who, having obtained a rare human body,  neglects to achieve the real end of this life. 
 
-Note: In some of the shlokas Adi Shankaracharya is highlighting multiple times  about being born as a "man" is the key for vedanta. We need to understand that during his time (about 700-750 CE) women were not allowed to study the vedic and vedantic texts. We should not take this point relevant for now. This perspective may vary, but this is my personal view point. 
+#Highlight Note: In some of the shlokas Adi Shankaracharya is highlighting multiple times  about being born as a "man" is the key for vedanta. We need to understand that during his time (about 700-750 CE) women were not allowed to study the vedic and vedantic texts. We should not take this point relevant for now. This perspective may vary, but this is my personal view point. 
 
 
 ## Shloka 6:
@@ -78,9 +78,13 @@ Even though people study the scriptures, worship the gods, perform rituals, and 
 अमृतत्वस्य नाशास्ति वित्तेनेत्येव हि श्रुतिः । 
 ब्रवीति कर्मणो मुक्तेः अहेतुत्वं स्फुटं यतः ॥७॥
 
-Indeed, the scripture declares that there is no immortality through wealth. It clearly states that liberation (moksha) is not caused by actions (karma). ॥ 7 ॥
+Indeed, the scripture declares that there is no liberation (मोक्ष) through wealth (वित्त). It clearly states that liberation (मोक्ष) is not caused by actions (कर्म). ॥ 7 ॥
 
-This verse emphasizes the idea that true immortality or liberation cannot be achieved through material wealth or worldly actions. It suggests that spiritual enlightenment and freedom (moksha) are not the results of material accumulation or mere ritualistic actions. Instead, it implies that liberation is attained through knowledge, wisdom, and spiritual practices that transcend worldly desires
+This verse emphasizes the idea that true liberation cannot be achieved through material wealth or worldly actions. It suggests that spiritual enlightenment and freedom (moksha) are not the results of material accumulation or mere ritualistic actions. Instead, it implies that liberation is attained through knowledge, wisdom, and spiritual practices that transcend worldly desires
+
+#Highlight Here the word अमृतत्वं should be understood correctly. Direct translation may lead to the word immortal. But in this case we should not take immortal as the translation. Instead it should be taken as liberation, from संसार, which means cycles of births and deaths. 
+
+#Highlight It may be confusing that Karma is useless as per this verse. But it is not. We need to understand Karma will not directly lead to #moksha. Instead it is needed for cleaning up the mind. (चित्त शुद्धि ). It will make human being more disciplined. 
 
 ## Shloka 8
 
@@ -90,6 +94,29 @@ This verse emphasizes the idea that true immortality or liberation cannot be ach
 This verse suggests that to attain liberation, one should renounce worldly desires and seek guidance from a spiritually enlightened teacher. By following the teachings of such a teacher, one can align their mind and actions towards the path of liberation. ॥ 8 ॥
 
 ## Shloka 9
+
+उद्धरेदात्मनात्मानं मग्नं संसारवारिधौ । 
+योगारूढत्वमासाद्य सम्यग्दर्शननिष्ठया ॥९॥
+
+One should lift oneself from the ocean of worldly existence by oneself, achieving the state of being Yogarooda, with firm conviction in the true vision. || 9 ||
+
+#Highlight Meaning of योगारूढत्वम्  - Performing listening (श्रवण), deliberation (मनन),  sustenance of the thoughts of Guru's teaching (निधिध्यासन)
+
+This verse encourages self-effort and determination in overcoming the challenges and delusions of worldly life. By achieving a state of stability in Guru's teaching and holding a firm conviction in the true vision of reality, one can elevate oneself from the depths of worldly existence. This emphasizes the importance of self-discipline, true understanding, and unwavering dedication in the path of spiritual growth and liberation.
+
+## Shloka 10
+
+संन्यस्य सर्वकर्माणि भवबन्धविमुक्तये ।
+यत्यतां पण्डितैर्धीरैः  आत्माभ्यास उपस्थितैः ॥१०॥
+
+Renouncing all actions for the liberation from the bonds of worldly existence, the wise and steady-minded engage in the practice of self-realization.
+
+This verse encourages the renunciation of all actions as a means to achieve liberation from the bonds of worldly existence. It highlights the importance of engaging in self-realization practices with wisdom and steadiness of mind. The wise and dedicated spiritual aspirants focus on self-discipline and inner realization to attain liberation from material attachments.
+
+## Shloka 11
+
+
+
 
 
 
