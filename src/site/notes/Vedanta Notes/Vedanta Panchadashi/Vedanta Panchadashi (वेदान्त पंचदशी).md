@@ -15,3 +15,7 @@ Let us learn chapter by chapter
    * Jnaanam (ज्ञानम्)
    * Anantam (anantam)
 
+	Click [[Tattva Viveka Prakaranam (तत्त्व विवेक प्रकरणं) \|Here]] for Chapter 1
+2. 
+
+
