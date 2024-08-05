@@ -87,14 +87,14 @@ This verse emphasizes the idea that true liberation cannot be achieved through m
 
 #Highlight It may be confusing that Karma is useless as per this verse. But it is not. We need to understand Karma will not directly lead to #moksha. Instead it is needed for cleaning up the mind. (चित्त शुद्धि ). It will make human being more disciplined. 
 
-## Shloka 8
+## Shloka 8:
 
 अतो विमुक्त्यै प्रयतेत विद्वान् संन्यस्तबाह्यार्थ-सुखस्पृहः सन् । 
 सन्तं महान्तं समुपेत्य देशिकं तेनोपदिष्टार्थ-समीहितात्मा ।।८।।
 
 This verse suggests that to attain liberation, one should renounce worldly desires and seek guidance from a spiritually enlightened teacher. By following the teachings of such a teacher, one can align their mind and actions towards the path of liberation. ॥ 8 ॥
 
-## Shloka 9
+## Shloka 9:
 
 उद्धरेदात्मनात्मानं मग्नं संसारवारिधौ । 
 योगारूढत्वमासाद्य सम्यग्दर्शननिष्ठया ॥९॥
@@ -105,7 +105,7 @@ One should lift oneself from the ocean of worldly existence by oneself, achievin
 
 This verse encourages self-effort and determination in overcoming the challenges and delusions of worldly life. By achieving a state of stability in Guru's teaching and holding a firm conviction in the true vision of reality, one can elevate oneself from the depths of worldly existence. This emphasizes the importance of self-discipline, true understanding, and unwavering dedication in the path of spiritual growth and liberation.
 
-## Shloka 10
+## Shloka 10:
 
 संन्यस्य सर्वकर्माणि भवबन्धविमुक्तये ।
 यत्यतां पण्डितैर्धीरैः  आत्माभ्यास उपस्थितैः ॥१०॥
@@ -114,7 +114,16 @@ Renouncing all actions for the liberation from the bonds of worldly existence, t
 
 This verse encourages the renunciation of all actions as a means to achieve liberation from the bonds of worldly existence. It highlights the importance of engaging in self-realization practices with wisdom and steadiness of mind. The wise and dedicated spiritual aspirants focus on self-discipline and inner realization to attain liberation from material attachments.
 
-## Shloka 11
+## Shloka 11:
+
+चित्तस्य शुद्धये कर्म न तु वस्तूपलब्धये । 
+वस्तुसिद्धिर्विचारेण न किंचित्कर्मकोटिभिः ॥११॥
+
+Actions are for the purification of the mind, not for the attainment of the reality. The realization of the truth comes through inquiry, not by performing millions of actions.
+
+This verse highlights the distinction between the purpose of actions and the attainment of ultimate knowledge or truth (ब्रह्म ज्ञानम्) . Actions are necessary for purifying the mind, which is a crucial step in the spiritual journey. However, the ultimate realization of the truth or reality (self-realization or enlightenment) is achieved through inquiry, contemplation, and inner reflection, rather than by performing numerous actions. This underlines the importance of a reflective and contemplative approach to spiritual practice
+
+## Shloka 12
 
 
 
