@@ -41,7 +41,7 @@ Sound, touch, and other objects of knowledge are distinct in wakefulness due to 
 
 > [!tip]- Avastha traya (अवस्था त्रय) - 3 States of consciousness
 **Jagrt (जागृत), Swapna (स्वप्न), and Sushupti (सुषुप्ति)** are terms in #vedanta that refer to the three states of consciousness in human experience, waking state, dream state and deep sleep state.
-More information about this [[3 States of Consciousness - अवस्था त्रय \| here]]
+More information about this [[Vedanta Notes/General Terms/3 States of Consciousness - अवस्था त्रय\|3 States of Consciousness - अवस्था त्रय]]
 
 
 This verse explains that in the waking state, our perceptions of sound, touch, and other objects appear distinct due to their different qualities. However, the underlying reality is that all these perceptions arise from a single consciousness. This consciousness is the unifying principle behind all diversity.
@@ -52,7 +52,7 @@ This verse explains that in the waking state, our perceptions of sound, touch, a
 >*Teja (तेज) - Light/Heat* :  From light we get the perception of रूप (vision)
 >*Aapa (आप ) - Water*: From water we get the perception of रस (taste )
 >*Pruthvi (पृथ्वी) - Earth*:  From earth we get the perception of गंध (smell)
->For more information about this read [[Vedanta Notes/General Terms/5 Basic Elements - पंच महाभूतानि\| Here]]
+>For more information about this read [[Vedanta Notes/General Terms/5 Basic Elements - पंच महाभूतानि\|5 Basic Elements - पंच महाभूतानि]]
 
 
 ## Shloka 4:
