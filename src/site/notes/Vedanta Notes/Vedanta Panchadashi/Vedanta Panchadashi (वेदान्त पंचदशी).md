@@ -3,7 +3,8 @@
 ---
 
 
-This is a work by Sri Vidyaranya. It is a concise summary of all the vedanta concepts divided in 15 chapters. You can get the original book here [Book Archive]([Vedanta Panchadasi of Vidyaranya Swami with Kalyana Piyusa Vyakhya [Sanskrit] : Vidyaranya Swami : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/Vedanta.Panchadasi.with.Kalyana.Piyusa.Vyakhya))
+This is a work by Sri Vidyaranya. It is a concise summary of all the vedanta concepts divided in 15 chapters. You can get the original book here [Book Archive](https://archive.org/details/Vedanta.Panchadasi.with.Kalyana.Piyusa.Vyakhya)
+
 
 Let us learn chapter by chapter 
 
