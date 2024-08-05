@@ -94,6 +94,18 @@ This verse emphasizes the idea that true liberation cannot be achieved through m
 
 This verse suggests that to attain liberation, one should renounce worldly desires and seek guidance from a spiritually enlightened teacher. By following the teachings of such a teacher, one can align their mind and actions towards the path of liberation. ॥ 8 ॥
 
+We need understand that before even thinking to find a #Guru for ultimate knowledge (ब्रह्मविद्या) the person should be a wise man (विद्वान्). The meaning of विद्वान्  in this context to be taken as नित्यानित्य विवेकी - which means, the person can discriminate between permanent and impermanent things, which is as per Sri Shankaracharya one of the 4 fold pratice (साधन चतुष्टय)for attaining the ultimate knowledge of #Brahma 
+
+>[!tip]- 4 fold pre-requisites - साधन चतुष्टय
+>
+> 1. नित्यानित्य वस्तु विवेकम्  
+> 2. इहाऽमुत्रार्थ फल भोगविरागम्
+> 3. शमादि षट्क सम्पत्ति
+> 4. मुमुक्षुत्वम्
+> For more details read [[Vedanta Notes/General/Sadhana Chatushtaya - साधन चतुष्टय\|Sadhana Chatushtaya - साधन चतुष्टय]] 
+
+
+
 ## Shloka 9:
 
 उद्धरेदात्मनात्मानं मग्नं संसारवारिधौ । 
@@ -110,9 +122,11 @@ This verse encourages self-effort and determination in overcoming the challenges
 संन्यस्य सर्वकर्माणि भवबन्धविमुक्तये ।
 यत्यतां पण्डितैर्धीरैः  आत्माभ्यास उपस्थितैः ॥१०॥
 
-Renouncing all actions for the liberation from the bonds of worldly existence, the wise and steady-minded engage in the practice of self-realization.
+Renouncing all actions for the liberation from the bonds of worldly existence, the wise and steady-minded people engage in the practice of self-realization.
 
 This verse encourages the renunciation of all actions as a means to achieve liberation from the bonds of worldly existence. It highlights the importance of engaging in self-realization practices with wisdom and steadiness of mind. The wise and dedicated spiritual aspirants focus on self-discipline and inner realization to attain liberation from material attachments.
+
+The word 
 
 ## Shloka 11:
 
