@@ -79,9 +79,9 @@ Even though people study the scriptures, worship the gods, perform rituals, and 
 अमृतत्वस्य नाशास्ति वित्तेनेत्येव हि श्रुतिः । 
 ब्रवीति कर्मणो मुक्तेः अहेतुत्वं स्फुटं यतः ॥७॥
 
-Indeed, the scripture declares that there is no liberation (मोक्ष) through wealth (वित्त). It clearly states that liberation (मोक्ष) is not caused by actions (कर्म). ॥ 7 ॥
+Indeed, the scripture declares that there is no liberation (मोक्ष) through wealth (वित्त). It clearly states that liberation (मोक्ष) is not caused by actions (कर्म) as well. ॥ 7 ॥
 
-This verse emphasizes the idea that true liberation cannot be achieved through material wealth or worldly actions. It suggests that spiritual enlightenment and freedom (moksha) are not the results of material accumulation or mere ritualistic actions. Instead, it implies that liberation is attained through knowledge, wisdom, and spiritual practices that transcend worldly desires
+This verse emphasizes the idea that true liberation cannot be achieved through material wealth or by worldly actions. It suggests that spiritual enlightenment and freedom (moksha) are not the results of material accumulation or mere ritualistic actions. Instead, it implies that liberation is attained through knowledge, wisdom, and spiritual practices that transcend worldly desires
 
 #Highlight Here the word अमृतत्वं should be understood correctly. Direct translation may lead to the word immortal. But in this case we should not take immortal as the translation. Instead it should be taken as liberation, from संसार, which means cycles of births and deaths. 
 
@@ -102,8 +102,7 @@ We need understand that before even thinking to find a #Guru for ultimate knowle
 > 2. इहाऽमुत्रार्थ फल भोगविरागम्
 > 3. शमादि षट्क सम्पत्ति
 > 4. मुमुक्षुत्वम्
-> For more details read [[Vedanta Notes/General Terms/Sadhana Chatushtaya - साधन चतुष्टय\|Sadhana Chatushtaya - साधन चतुष्टय]] 
-
+> For more details read [[Vedanta Notes/General Terms/4 Fold Practice - साधन चतुष्टय\|4 Fold Practice - साधन चतुष्टय]] 
 
 
 ## Shloka 9:
