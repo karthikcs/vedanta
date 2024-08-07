@@ -138,6 +138,18 @@ This verse highlights the distinction between the purpose of actions and the att
 
 ## Shloka 12
 
+विचारस्य वस्तूपलब्धिहेतुत्वं दृष्टान्तेन विशदयति सम्यगिति ।
+
+The fact that self inquiry and knowledge is the cause of the perception of objects is clarified by an example.
+
+सम्यग्विचारतः सिद्धा रज्जुतत्वावधारणा । 
+भ्रान्त्योदित-महासर्प-भवदुःखविनाशिनी ।।१२।।
+
+The correct understanding of the rope is established through correct thought. It destroys the great serpent, which is the product of delusion, and the resulting suffering. ॥ 12 ॥
+
+More details of this example (दृष्टांत ) [[Vedanta Notes/General Terms/Rope and Serpent Example - रज्जु सर्प दृष्टांत\|Rope and Serpent Example - रज्जु सर्प दृष्टांत]]
+
+## Shloka 13
 
 
 
