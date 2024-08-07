@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/welcome-to-vedanta-jignasa/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/welcome-to-vedanta-jignasa/"}
 ---
 
 ## Welcome to Vedanta Jignasa -वेदान्त जिज्ञासा
