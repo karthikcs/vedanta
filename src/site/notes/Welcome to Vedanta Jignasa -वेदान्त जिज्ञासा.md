@@ -27,10 +27,12 @@ This work is by Adi Shankaraacharya and it explains all the important points of 
 
 ## [[Vedanta Notes/Vedanta Panchadashi/Vedanta Panchadashi (वेदान्त पंचदशी)\|Vedanta Panchadashi (वेदान्त पंचदशी)]]
 
+Author of this book is Sree Vidyaranya, who was the Guru of famous Hakka and Bukka of Vijayanagara kingdom. 
+
 >[!tip]- Chapters
 [[Vedanta Notes/Vedanta Panchadashi/Tattva Viveka Prakaranam (तत्त्व विवेक प्रकरणं)\|Tattva Viveka Prakaranam (तत्त्व विवेक प्रकरणं)]]
 
-Author of this book is Sree Vidyaranya, who was the Guru of famous Hakka and Bukka of Vijayanagara kingdom. 
+
 
 
 ## [[Vedanta Notes/Laghu Vasudeva Mananam/Laghu Vasudeva Mananam (लघु वासुदेव मननम्)\|Laghu Vasudeva Mananam (लघु वासुदेव मननम्)]]

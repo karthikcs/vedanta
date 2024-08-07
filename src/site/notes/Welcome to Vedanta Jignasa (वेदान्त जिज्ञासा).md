@@ -21,12 +21,16 @@ In this journal we will study different works by great scholars like Adi #Shanka
 
 ## [[Vedanta Notes/Viveka Chudamani/Viveka Chudamani (विवेक चूडामणिः  )\|Viveka Chudamani (विवेक चूडामणिः  )]]
 
+This work is by Adi Shankaraacharya and it explains all the important points of #advaita #sidhanta. It is considered as one of the foundational books to be studied by a student of #vedanta 
+
 ## [[Vedanta Notes/Vedanta Panchadashi/Vedanta Panchadashi (वेदान्त पंचदशी)\|Vedanta Panchadashi (वेदान्त पंचदशी)]]
+
+Author of this book is Sree Vidyaranya, who was the Guru of famous Hakka and Bukka of Vijayanagara kingdom. 
+
 
 >[!tip]- Chapters
 [[Vedanta Notes/Vedanta Panchadashi/Tattva Viveka Prakaranam (तत्त्व विवेक प्रकरणं)\|Tattva Viveka Prakaranam (तत्त्व विवेक प्रकरणं)]]
 
 
-
-
+## [[Vedanta Notes/Laghu Vasudeva Mananam/Laghu Vasudeva Mananam (लघु वासुदेव मननम्)\|Laghu Vasudeva Mananam (लघु वासुदेव मननम्)]]
 
