@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/welcome-to-vedanta-jignasa/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/welcome-to-vedanta-jignasa/"}
 ---
 
 श्री गुरुभ्यो नमः
