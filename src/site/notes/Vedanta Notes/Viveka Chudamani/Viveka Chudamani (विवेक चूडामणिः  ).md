@@ -125,7 +125,7 @@ Renouncing all actions for the liberation from the bonds of worldly existence, t
 
 This verse encourages the renunciation of all actions as a means to achieve liberation from the bonds of worldly existence. It highlights the importance of engaging in self-realization practices with wisdom and steadiness of mind. The wise and dedicated spiritual aspirants focus on self-discipline and inner realization to attain liberation from material attachments.
 
-The word 
+The word धीरः here is not the physically strong person or a warrior instead it refers to people who uses their intellect (बुद्धि) to understand oneself. धी means intellect. 
 
 ## Shloka 11:
 
