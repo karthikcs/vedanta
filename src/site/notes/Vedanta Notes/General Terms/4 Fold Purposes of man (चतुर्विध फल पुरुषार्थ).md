@@ -14,5 +14,5 @@ There are 4 fold purposes of human life, which is referred in most of the texts 
 ## Moksha - मोक्ष 
 
 
-Out of these, #Moksha is the greatest purpose any man can aim for in the life. It is called as परम पुरुषार्थ. Because it is only thing which is permanent (नित्यम् ), other 3 are temporary. Yes even dharma is temporary
+Out of these, #Moksha is the greatest purpose any man can aim for in the life. It is called as परम पुरुषार्थ. Because it is only thing which is permanent (नित्यम् ), other 3 are temporary. Yes even dharma is temporary. [[Vedanta Notes/Laghu Vasudeva Mananam/Laghu Vasudeva Mananam (लघु वासुदेव मननम्)#Page 2\|Laghu Vasudeva Mananam (लघु वासुदेव मननम्)#Page 2]]
 
