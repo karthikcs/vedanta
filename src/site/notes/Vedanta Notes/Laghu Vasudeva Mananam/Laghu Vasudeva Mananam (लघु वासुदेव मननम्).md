@@ -17,8 +17,7 @@ Author bows to Sri Adi Shankara
 बालानामुपकाराय मम विज्ञानसिद्धये । 
 तत्र श्रीबालगोपालकृष्णः संनिहितो भवेत् ॥ ४ ॥
 
-In this book, the unnamed author says that he is writing a gist of an elaborated book called Mannam - मननम्, written by sage Vasudeva (वासुदेव). He mentions that he is writing this book as his own notes and for the benefits of students who are getting started with #vedanta  (बालनां उपकराय )
-
+In this book, the unnamed author says that he is writing a gist of an elaborated book called Mannam - मननम्, written by the sage Vasudeva (वासुदेव). He mentions that he is writing this book for his own better understanding and for the benefits of students who are getting started with #vedanta  (बालनां उपकराय ). The word बाला means child, which is here referred to as not very matured in the  subject of #vedanta 
 
 ### Page 2
 
@@ -36,13 +35,30 @@ One might have doubt, how come धर्म - Virtuous deed is not as great as �
 
 One last point on this subject, author mentions that मोक्ष - Liberation is attained only by understanding the true #Brahma 
 
-That #Brahma can be known only by the process of अध्यारोप अपवाद process. 
+That #Brahma can be known only by the process of Adhyaropa (अध्यारोप) and Apavada (अपवाद ) process. 
+
+- **Adhyaropa** refers to the process of superimposition or attribution of qualities that do not inherently belong to something.
+- **Apavada** refers to the process of negation or exclusion, removing something that was previously superimposed.
+
+This will be more clear with an example. Please see below #Illustration 
+
+| Concept   | Description     | Example                                                                                                                                                               |
+| --------- | --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Adhyaropa | Superimposition | We superimpose the quality of "blueness" on the sky, even though the sky itself has no color. The blueness is due to the interaction of sunlight with the atmosphere. |
+| Apavada   | Negation        | Recognizing that the blueness is not inherent to the sky and negating that quality.                                                                                   |
 
 ### Page 3
 
+Now let's start with few Superimpositions (अध्यारोप) #Illustration 
+* Superimposition of "silver" in a "shell" on a bright sunny day on a beach 
+* Superimposition of "serpent" in a "rope" in semi dark condition 
+* Superimposition of "man" in a "leaf less old tree" from a distance
 
+Now with proper understanding the superimpositions are negated as below 
+* By approaching the Silver looking shell,  one can negate that it is just a shell
+* By having more light on the rope, we can negate the false knowledge on serpent in rope
+* By having closer look we can understand it's an old tree and not a man
 
-
-
+Similarly there is a superimposition of worldly objects (जगत ) in a non-worldly thing (निष्प्रपंच वस्तु ) also known as #Brahma (ब्रह्म) due to the ignorance (अज्ञानम्). 
 
 
