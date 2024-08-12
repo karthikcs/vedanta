@@ -24,9 +24,11 @@ In this book, the unnamed author says that he is writing a gist of an elaborated
 
 Author now talks about 4 main purposes of any human. [[Vedanta Notes/General Terms/4 Fold Purposes of man (चतुर्विध फल पुरुषार्थ)\|4 Fold Purposes of man (चतुर्विध फल पुरुषार्थ)]]
 
-These are 4 Fold purposes of life. Dharma (Virtuous Deeds), Artha (Acquisition of wealth), Kaama (Desires of children/ spouse/ and other earthly pleasures), Moksha (Liberation from संसार - cycle of life and birth). It is important to highlight that the last one मोक्ष - Liberation is the (परमम् ) greatest of all. The reason is Moksha is नित्यम्. Nityam means, permanent - it does not have boundary of time, it is beyond the time. It means it does not have birth nor the destruction (अनादि  and अनंतम् ). Other 3 purposes are not नित्यम् hence not great. 
+These are 4 Fold purposes of life. Dharma (Virtuous Deeds), Artha (Acquisition of wealth), Kaama (Earthly pleasures), Moksha (Liberation from संसार - cycle of life and birth). It is important to highlight that the last one मोक्ष - Liberation is the greatest (परमम् ) of all. The reason the Moksha is the highest and greatest of all 4 is, that it is Nityam (नित्यम्). Nityam means, permanent - it does not have boundary of time, it is beyond the time. It means it does not have start nor the end (अनादि  and अनंतम् ). Other 3 purposes are not नित्यम् hence not the greatest. 
 
-Here one might have a doubt, how come धर्म - Virtuous deeds is not as great as मोक्ष  (Liberation). Virtuous deeds accumulate पुण्यम् (Punyam). The Punyam leads the जीवात्मा (all of us) to better लोक (worlds). However, it is not permanent. As per the श्रुति ( #veda) once the Punya is reduced, the jeeva should come back to this loka. Hence Dharma is also not permanent.
+It is easy to understand Artha and Kaama are not permanent. Wealth reduces with situations or time and so the earthly pleasures. 
+
+One might have doubt, how come धर्म - Virtuous deed is not as great as मोक्ष  (Liberation). Virtuous deeds accumulate Punyam (पुण्यम्). The Punyam leads all of us (जीवात्मा) to the better world (लोक). However, it is not permanent. As per the #veda #upanishad (श्रुति) as the Punya is reduced, the jeeva should come back to this world. Hence Dharma is also not permanent. 
 
 >[!tip]- Chandogya Shruti
 >तद्यथेह  कर्मचितो  लोकः क्षीयत एवमेवामुत्र पुण्यचितो  लोकः क्षीयते (छा० ८. १. ६.)
@@ -34,8 +36,9 @@ Here one might have a doubt, how come धर्म - Virtuous deeds is not as gr
 
 One last point on this subject, author mentions that मोक्ष - Liberation is attained only by understanding the true #Brahma 
 
+That #Brahma can be known only by the process of अध्यारोप अपवाद process. 
 
-
+### Page 3
 
 
 
