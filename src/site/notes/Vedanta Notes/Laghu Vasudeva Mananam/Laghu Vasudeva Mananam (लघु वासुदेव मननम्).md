@@ -59,8 +59,7 @@ Now with proper understanding the superimpositions are negated as below
 * By having more light on the rope, we can negate the false knowledge on serpent in rope
 * By having closer look we can understand it's an old tree and not a man
 
-Similarly there is a superimposition of worldly objects (जगत ) in a non-worldly thing (निष्प्रपंच वस्तु ) also known as #Brahma (ब्रह्म) due to the ignorance (अज्ञानम्).  This ignorance is also known as many other words - अविद्या, तमः, मोहः, मूलप्रकृति, प्रधानां as well as माया. This ignorance (मूलप्रकृति) is like a rope made up of white, red and black threads. These threads represent Sattva (सत्त्व), राजस (रजस) and Tamo (तमस) characteritics (गुणाः). The meaning here the ignorance (मूलप्रकृति) comprises of these 3 characteristics.
-
+Similarly there is a superimposition of worldly objects (जगत ) in a non-worldly thing (निष्प्रपंच वस्तु ) also known as #Brahma (ब्रह्म) due to the ignorance (अज्ञानम्).  This ignorance is also known as many other words - अविद्या, तमः, मोहः, मूलप्रकृति, प्रधानां as well as माया. This ignorance (मूलप्रकृति) is like a rope made up of white, red and black threads. These threads represent Sattva (सत्त्व), राजस (रजस) and Tamo (तमस) fundamental qualities (गुणाः). The meaning here is that the ignorance (मूलप्रकृति) comprises of these 3 fundamental qualities. Read more about this [[Vedanta Notes/General Terms/3 Fundamental Qualities - त्रिगुण\|3 Fundamental Qualities - त्रिगुण]]
 
 
 
