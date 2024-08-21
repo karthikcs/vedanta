@@ -4,7 +4,7 @@
 
 ## Gross Body Layer अन्नमय कोश 
 
-## प्राणमय कोश 
+## Vital  Energy Layer प्राणमय कोश 
 
 ## Mind Layer मानोमय कोश 
 
