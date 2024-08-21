@@ -118,11 +118,11 @@ From the mixture of 5 elements (पंचीकृत पंचाभूता�
 
 These Causal Body (कारण शरीरं), Subtle Body (सूक्ष्म शरीरं), Gross Body (स्थूल शरीरं) are of 2 types by individual bodies and aggregate bodies. Example - Forest, Village are examples of aggregation. Tree and house are examples are individual item in those aggregate respectively. Similarly all bodies put together is aggregate (समष्टि), each body is an individual (व्यष्टि). So, the superimposition (उपाधि) of #Brahma on entire aggregate body (समष्टि) is ishwara (ईशर), similarly superimposition on individual body is (जीव) . There are certain names given to these superimpositions as below 
 
-| Body (शरीर)                 | Aggregate (समष्टि)           | Individual (व्यष्टि) |
-| --------------------------- | ---------------------------- | -------------------- |
-| Causal  Body (कारण शरीरं)   | Ishvara (ईश्वर)              | Praajna (प्राज्ञ)    |
-| Subtle Body (सूक्ष्म शरीरं) | Hiranya Garbha (हिरण्य गर्भ) | Taijasa (तैजस)       |
-| Gross Body (स्थूल शरीरं)    | Vaishvanara (वैश्वनार)       | Vishva (विश्व)       |
+| **Body (शरीर)**             | **Aggregate (समष्टि)**       | **Individual (व्यष्टि)** |
+| --------------------------- | ---------------------------- | ------------------------ |
+| Causal  Body (कारण शरीरं)   | Ishvara (ईश्वर)              | Praajna (प्राज्ञ)        |
+| Subtle Body (सूक्ष्म शरीरं) | Hiranya Garbha (हिरण्य गर्भ) | Taijasa (तैजस)           |
+| Gross Body (स्थूल शरीरं)    | Vaishvanara (वैश्वनार)       | Vishva (विश्व)           |
 
 This ishwara (ईश्वर) takes the form of brahma, vishnu and rudra to perform creation, sustenance and destruction of the universe. This is how world is created. This the Superimposition (अध्यारोप). This the work of Vikshepa (विक्षेप शक्ति) of nature. 
 
