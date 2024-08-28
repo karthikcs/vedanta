@@ -17,5 +17,5 @@ Enjoying the earthly pleasures. Mostly enjoyed by our sensory organs. Such as se
 ## Moksha - मोक्ष 
 Liberation from the cycle of life and death. 
 
-Out of these, #Moksha is the greatest purpose any man can aim for in the life. It is called as परम पुरुषार्थ. Because it is only thing which is permanent (नित्यम् ), other 3 are temporary. Yes even dharma is temporary. [[Vedanta Notes/Laghu Vasudeva Mananam/Laghu Vasudeva Mananam (लघु वासुदेव मननम्) - First Chapter#Page 2\|Laghu Vasudeva Mananam (लघु वासुदेव मननम्) - First Chapter#Page 2]]
+Out of these, #Moksha is the greatest purpose any man can aim for in the life. It is called as परम पुरुषार्थ. Because it is only thing which is permanent (नित्यम् ), other 3 are temporary. Yes even dharma is temporary. [[Vedanta Notes/Laghu Vasudeva Mananam/Laghu Vasudeva Mananam (लघु वासुदेव मननम्) - 1st Chapter#Page 2\|Laghu Vasudeva Mananam (लघु वासुदेव मननम्) - 1st Chapter#Page 2]]
 

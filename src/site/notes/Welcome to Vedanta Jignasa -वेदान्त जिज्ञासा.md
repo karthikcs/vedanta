@@ -35,7 +35,7 @@ Author of this book is Sree Vidyaranya, who was the Guru of famous Hakka and Buk
 
 
 
-## [[Vedanta Notes/Laghu Vasudeva Mananam/Laghu Vasudeva Mananam (लघु वासुदेव मननम्) - First Chapter\|Laghu Vasudeva Mananam (लघु वासुदेव मननम्) - First Chapter]]
+## [[Vedanta Notes/Laghu Vasudeva Mananam/Laghu Vasudeva Mananam (लघु वासुदेव मननम्) - 1st Chapter\|Laghu Vasudeva Mananam (लघु वासुदेव मननम्) - 1st Chapter]]
 
 
 
