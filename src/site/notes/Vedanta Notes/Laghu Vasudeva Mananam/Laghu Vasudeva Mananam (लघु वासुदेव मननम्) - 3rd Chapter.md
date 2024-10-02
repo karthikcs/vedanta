@@ -34,6 +34,9 @@ Another way to establish this fact is using  प्रतिबिंब पक�
 **Question**: Now how to make sure that these appearances are not real.
 Let us continue the illustration of reflection of sun on different water bodies. The qualities of water bodies that is coolness and waves do exist only in the water bodies. As in when there is wind the reflection of Sun is moved but actual sun is not. Similarly, you feel coolness in water but actual sun is hot. In this way the changes of qualities happen only in Upadhis but not in the original object.
 
+So, what are all the modifications in the जीव - The nature of body-mind complex, the feeling of doer (कर्तृत्व), feeling of enjoyer (भोक्तृत्व), changes in the bodies happen only to the jeeva who is the holder of body-mind (अन्तः करण) but not the real essence which is reflecting in him.
+
 Another illustration 
 The water is referred to as ocean, river, well, pond, pot water etc, but still the essence of water which is wetness and coolness is maintained. In the same way #Brahma (ब्रह्म) is appearing in different forms but maintaining the same essence of [[Vedanta Notes/General Terms/Satyam Jnanam and Anantam - सत्यं, ज्ञानम्, आनंतम्\|Satyam Jnanam and Anantam - सत्यं, ज्ञानम्, आनंतम्]]
+
 
