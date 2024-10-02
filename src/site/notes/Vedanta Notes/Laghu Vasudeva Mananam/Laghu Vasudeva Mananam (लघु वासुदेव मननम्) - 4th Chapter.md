@@ -5,3 +5,7 @@
 ## 4th Chapter- चतुर्थ  वर्णकम् 
 
 ### Page 18 
+
+Now, let us understand the causes for sorrow for the jiva (जीव)। 
+
+
