@@ -21,4 +21,9 @@ In this book, the unnamed author says that he is writing a gist of an elaborated
 
 
 [[Vedanta Notes/Laghu Vasudeva Mananam/Laghu Vasudeva Mananam (लघु वासुदेव मननम्) - 1st Chapter\|Laghu Vasudeva Mananam (लघु वासुदेव मननम्) - 1st Chapter]]
+[[Vedanta Notes/Laghu Vasudeva Mananam/Laghu Vasudeva Mananam (लघु वासुदेव मननम्) - 2nd Chapter\|Laghu Vasudeva Mananam (लघु वासुदेव मननम्) - 2nd Chapter]]
+[[Vedanta Notes/Laghu Vasudeva Mananam/Laghu Vasudeva Mananam (लघु वासुदेव मननम्) - 3rd Chapter\|Laghu Vasudeva Mananam (लघु वासुदेव मननम्) - 3rd Chapter]]
+[[Vedanta Notes/Laghu Vasudeva Mananam/Laghu Vasudeva Mananam (लघु वासुदेव मननम्) - 4th Chapter\|Laghu Vasudeva Mananam (लघु वासुदेव मननम्) - 4th Chapter]]
+
+
 

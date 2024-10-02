@@ -42,3 +42,5 @@ The water is referred to as ocean, river, well, pond, pot water etc, but still t
 **Question**: If the individual soul (जीव) is imagined and therefore false, how it be identical to the supreme truth which is #Brahma (ब्रह्म)? 
 
 The answer is that the Jīva (जीव) is of three types: transcendental (पारमार्थिक), empirical (व्यावहारिक), and phenomenal (प्रातिभासिक). These three types of Jīva successively identify with deep sleep, waking state, and dream state. Let us now see an illustration. In the same way waves are created in water, water foam (bubbles) are hence created within waves, the same way within transcendental (पारमार्थिक), empirical (व्यावहारिक) is imagined. In the same way  phenomenal (प्रातिभासिक) is imagined within empirical (व्यावहारिक). The same way, the essence of water which is sweetness, wetness and coolness is there in waves as well as as in foam, the transcendental (पारमार्थिक) essence  सच्चिदानंद [[Vedanta Notes/General Terms/Satyam Jnanam and Anantam - सत्यं, ज्ञानम्, आनंतम्\|Satyam Jnanam and Anantam - सत्यं, ज्ञानम्, आनंतम्]]  of #Brahma exists in other forms as well. 
+
+End of 3rd chapter 
