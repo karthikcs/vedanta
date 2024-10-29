@@ -29,7 +29,15 @@ With this we can determine that sorrow is not natural for any jeevatma, but it i
 For instance by using magical stones and by some mantra, we can remove the heat from fire but still the fire remain. Similarly we can think that sorrow is natural for aatma and we can remove it and still we can be ourselves. 
 **Response by vedanta (सिद्धांति)** : This may be true but for temporary period, but can not be permanent. As one's the magical stone is removed fire gets back its heat.
 
-With all these evidences, we can disprove the initial hypothesis that sorrow is natural for jeevatma. So the nature of jeevatma is a happiness. 
+With all these evidences, we can disprove the initial hypothesis that sorrow is natural for jeevatma. So the nature of jeevatma is only happiness. 
+
+### Page 19
+
+Now let's discuss the cause for sorrow. If we (आत्म) are happy by nature why did we get sorrow, because almost everyone we see in this world is having some kind of sorrow and suffering. The main reason for that is the birth. In Vedanta birth means attaining the body (शरीर परिग्रहः) 
+
+Let's try to understand the scope (व्याप्ती) , wherever there is body there is sorrow and without that no sorrow and hence the cause for sorrow is body. 
+
+
 
 
 
