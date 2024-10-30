@@ -19,6 +19,7 @@ Let us first of all assume that sorrow is natural and see if this hypothesis sta
 
 **Question: (पूर्व पक्ष):** Let the sorrow is natural and we can still try to remove it and go towards happiness right? 
 **Response by vedanta (सिद्धांति)** : If anything is natural, that would be considered as one's own nature (स्वस्वरूप). Who will try to remove one's own nature? 
+Also let sorrow be natural and with great effort (कर्म), and we without sorrow what remains is happiness. This argument doesn't stand as whatever is result of karma, will be revoked once the karma's effect is over. (कर्म जन्य सकलं अपि कर्म नाशे  नाश्यति)
 
 **Question: (पूर्व पक्ष):** How do you say what's natural is that entity's own nature? 
 **Response by vedanta (सिद्धांति)** : The nature of jaggery is sweet. If you remove sweetness from it, that destroys the" jaggeryness" from it. Similarly if the sorrow is natural for jeevatma (जीवात्मा) by removing sorrow jeevatma itself will be destroyed, which is very bizarre. 
@@ -35,7 +36,15 @@ With all these evidences, we can disprove the initial hypothesis that sorrow is 
 
 Now let's discuss the cause for sorrow. If we (आत्म) are happy by nature why did we get sorrow, because almost everyone we see in this world is having some kind of sorrow and suffering. The main reason for that is the birth. In Vedanta birth means attaining the body (शरीर परिग्रहः) 
 
-Let's try to understand the scope (व्याप्ती) , wherever there is body there is sorrow and without that no sorrow and hence the cause for sorrow is body. 
+Let's try to understand the scope (व्याप्ती) , wherever there is body there is sorrow and without that no sorrow and hence the cause for sorrow is body. The sorrow even haunts kings from enemies, women, illness and death. In the world you may think there are people who are very happy, but in reality they are not happy. It's just a temporary state and even the sorrow feels like happiness due to delusion (मोह). 
+
+**Question: (पूर्व पक्ष):** So, what about wise people (विवेकी), do they also suffer sorrow?
+**Response by vedanta (सिद्धांति)** :  Due to the birth, they also suffer with the sorrows of natural needs like illness, hunger and sufferings from wild animals. 
+
+**Question: (पूर्व पक्ष):** So, what's special about wise people, why are you so insisting to be wise who can discriminate aatma and anatma?  
+**Response by vedanta (सिद्धांति)**: Their daily transactions would not be with external factors but mainly they are looking internal. So, their sorrow belongs to the subtle body (mind) not of their aatma. 
+
+
 
 
 
