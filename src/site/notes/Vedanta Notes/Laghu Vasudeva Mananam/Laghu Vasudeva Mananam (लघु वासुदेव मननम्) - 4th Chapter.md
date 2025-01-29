@@ -42,7 +42,11 @@ Let's try to understand the scope (व्याप्ती) , wherever there is
 **Response by vedanta (सिद्धांति)** :  Due to the birth, they also suffer with the sorrows of natural needs like illness, hunger and sufferings from wild animals. 
 
 **Question: (पूर्व पक्ष):** So, what's special about wise people, why are you so insisting to be wise who can discriminate aatma and anatma?  
-**Response by vedanta (सिद्धांति)**: Their daily transactions would not be with external factors but mainly they are looking internal. So, their sorrow belongs to the subtle body (mind) not of their aatma. 
+**Response by vedanta (सिद्धांति)**: Their daily transactions for both may be same, but would not be with internal transactions. So the wise attributes all their sorrows to the subtle body (mind) and not to the aatma. Wise man knows the nature of aatma is eternal knowledge and bliss (सच्चिदानंद). So, he understand all the sorrows his body is going through belong to his body mind complex and not to him 'self'
+
+### Page 20
+
+On the other hand, the unwise people get confused with nature of aatma and anatma and super impose the nature of body (anaatma) on aatma, by doing he transacts saying I am man, I am brahmin, I am a trader, I am a warrior etc
 
 
 
