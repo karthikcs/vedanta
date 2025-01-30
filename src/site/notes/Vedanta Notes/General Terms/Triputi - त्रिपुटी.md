@@ -10,7 +10,7 @@ In Vedanta, particularly in Advaita Vedanta, Triputi (त्रिपुटी) 
  * ज्ञेय (jñeya): The known, the object of knowledge, the world or phenomenon.
 This triad is fundamental to all cognitive experiences. Every act of knowing involves a knower, the process of knowing, and the object that is known.
 Significance in Advaita Vedanta:
-Advaita Vedanta, which emphasizes the non-dual nature of reality, uses the concept of Triputi to illustrate the illusory nature of duality. It posits that ultimately, only the Atman (the Self) is real, and the distinction between the knower, the known, and the process of knowing is an illusion superimposed on the единое (Brahman).
+Advaita Vedanta, which emphasizes the non-dual nature of reality, uses the concept of Triputi to illustrate the illusory nature of duality. It posits that ultimately, only the Atman (the Self) is real, and the distinction between the knower, the known, and the process of knowing is an illusion superimposed on the ब्रह्म (Brahman).
 In the state of Self-realization, this Triputi dissolves, revealing the underlying oneness of reality. There is no separate knower or known, only the pure consciousness that is the Atman.
 
 ## Analogy:
