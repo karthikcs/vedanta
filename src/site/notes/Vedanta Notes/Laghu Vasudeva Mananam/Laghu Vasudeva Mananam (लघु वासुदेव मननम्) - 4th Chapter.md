@@ -18,17 +18,17 @@ Let us start from Sorrow (दुखः). Let us analyze if the sorrow is natural
 Let us first of all assume that sorrow is natural and see if this hypothesis stays. If sorrow was natural, the removal of sorrow is not possible and there will not be happiness for anyone. There would no actions taken by anyone to pursue the happiness. No one would ever try for getting happiness and remove the sorrow. All the religious books which preaches the humans to perform good deeds would be a waste. 
 
 **Question: (पूर्व पक्ष):** Let the sorrow is natural and we can still try to remove it and go towards happiness right? 
-**Response by vedanta (सिद्धांति)** : If anything is natural, that would be considered as one's own nature (स्वस्वरूप). Who will try to remove one's own nature? 
+**Response by vedanti (सिद्धांति)** : If anything is natural, that would be considered as one's own nature (स्वस्वरूप). Who will try to remove one's own nature? 
 Also let sorrow be natural and with great effort (कर्म), and we without sorrow what remains is happiness. This argument doesn't stand as whatever is result of karma, will be revoked once the karma's effect is over. (कर्म जन्य सकलं अपि कर्म नाशे  नाश्यति)
 
 **Question: (पूर्व पक्ष):** How do you say what's natural is that entity's own nature? 
-**Response by vedanta (सिद्धांति)** : The nature of jaggery is sweet. If you remove sweetness from it, that destroys the" jaggeryness" from it. Similarly if the sorrow is natural for jeevatma (जीवात्मा) by removing sorrow jeevatma itself will be destroyed, which is very bizarre. 
+**Response by vedanti (सिद्धांति)** : The nature of jaggery is sweet. If you remove sweetness from it, that destroys the" jaggeryness" from it. Similarly if the sorrow is natural for jeevatma (जीवात्मा) by removing sorrow jeevatma itself will be destroyed, which is very bizarre. 
 
 With this we can determine that sorrow is not natural for any jeevatma, but it is imposed on us. 
 
 **Question: (पूर्व पक्ष):** Can we not remove what is natural but still retain own's nature? 
 For instance by using magical stones and by some mantra, we can remove the heat from fire but still the fire remain. Similarly we can think that sorrow is natural for aatma and we can remove it and still we can be ourselves. 
-**Response by vedanta (सिद्धांति)** : This may be true but for temporary period, but can not be permanent. As one's the magical stone is removed fire gets back its heat.
+**Response by vedanti (सिद्धांति)** : This may be true but for temporary period, but can not be permanent. As one's the magical stone is removed fire gets back its heat.
 
 With all these evidences, we can disprove the initial hypothesis that sorrow is natural for jeevatma. So the nature of jeevatma is only happiness. 
 
@@ -39,18 +39,16 @@ Now let's discuss the cause for sorrow. If we (आत्म) are happy by nature
 Let's try to understand the scope (व्याप्ती) , wherever there is body there is sorrow and without that no sorrow and hence the cause for sorrow is body. The sorrow even haunts kings from enemies, women, illness and death. In the world you may think there are people who are very happy, but in reality they are not happy. It's just a temporary state and even the sorrow feels like happiness due to delusion (मोह). 
 
 **Question: (पूर्व पक्ष):** So, what about wise people (विवेकी), do they also suffer sorrow?
-**Response by vedanta (सिद्धांति)** :  Due to the birth, they also suffer with the sorrows of natural needs like illness, hunger and sufferings from wild animals. 
+**Response by vedanti (सिद्धांति)** :  Due to the birth, they also suffer with the sorrows of natural needs like illness, hunger and sufferings from wild animals. 
 
 **Question: (पूर्व पक्ष):** So, what's special about wise people, why are you so insisting to be wise who can discriminate aatma and anatma?  
-**Response by vedanta (सिद्धांति)**: Their daily transactions for both may be same, but would not be with internal transactions. So the wise attributes all their sorrows to the subtle body (mind) and not to the aatma. Wise man knows the nature of aatma is eternal knowledge and bliss (सच्चिदानंद). So, he understand all the sorrows his body is going through belong to his body mind complex and not to him 'self'
+**Response by vedanti (सिद्धांति)**: Their daily transactions for both may be same, but would not be with internal transactions. So the wise attributes all their sorrows to the subtle body (mind) and not to the aatma (आत्म). Wise man knows the nature of aatma is eternal knowledge and bliss (सच्चिदानंद). So, he understand all the sorrows his body is going through belong to his body mind complex and not to him/her 'self'
 
 ### Page 20
 
-On the other hand, the unwise people get confused with nature of aatma and anatma and super impose the nature of body (anaatma) on aatma, by doing he transacts saying I am man, I am brahmin, I am a trader, I am a warrior etc
+On the other hand, the unwise people get confused with nature of aatma  and anatma and super impose the nature of body (anaatma) on aatma, by doing so, he transacts saying I am man, I am brahmin, I am a trader, I am a warrior, I am from southern part, I am a God, I am a household (गृहस्थः) - He uses these kind of caste, state, region and religion traits which actually belong to the body of the जीव to Aatma (आत्म). Likewise there are huge difference between wise and unwise people. 
 
+**Question: (पूर्व पक्ष):** What is the difference in external transactions of wise and unwise people? 
+**Response by vedanti (सिद्धांति)**: If you observe there is a lot of difference in transactions of wise and unwise people. The wise man decides that entire world is unreal (मिथ्या) and lives his life as if it is a life in dream till his Prarabdha (प्रारब्ध ) karma is experienced and completed. However, the unwise man thinks that entire life is real and happiness and sorrow is experienced by aatma. 
 
-
-
-
-
-
+This way due to the capture of body, even wise people get sorrow. 
