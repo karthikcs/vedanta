@@ -56,4 +56,18 @@ This way due to the capture of body, even wise people get sorrow.
 Even Gods will go through sorrow as they will hold a body. 
 
 **Question: (पूर्व पक्ष):** How can a God have sorrow
-**Response by vedanti (सिद्धांति)**: Gods will be at fight with demons, the fear of losing, fear of death will invite sorrow. 
+**Response by vedanti (सिद्धांति)**: Gods will be at fight with demons, the fear of losing, anger, fear of death will invite sorrow. Also, they are worried about diminishing of Punya (पुण्य) which attracts sorrow as well.
+
+
+### Page 21
+
+How those who themselves suffer can be a refuge for others, or how can they provide happiness to others? If one argues this point, an example is given—even kings and rulers, despite their wealth and power, also experience suffering in this world, but still due to their position in the society they provide money, resources and take care of their people. This does not mean they enjoy the unended bliss. Having body will ensure that jeeva (जीव) will have sufferings, irrespective of who they are. So, everyone should be trying hard for liberation without body (विदेह मुक्ति)
+
+**Question: (पूर्व पक्ष):** If liberation without body is the only type of liberation, I have heard that some of greatest people have achieved liberation and have obtained stardom and seen in the sky. But they have body right? How is it possible
+
+**Response by vedanti (सिद्धांति)**: There are 4 types of liberation. 
+
+- सालोक्यम् -  
+- सामीप्यम् 
+- सारूप्यम् 
+- सायुज्यम् 
