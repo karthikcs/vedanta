@@ -52,3 +52,8 @@ On the other hand, the unwise people get confused with nature of aatma  and anat
 **Response by vedanti (सिद्धांति)**: If you observe there is a lot of difference in transactions of wise and unwise people. The wise man decides that entire world is unreal (मिथ्या) and lives his life as if it is a life in dream till his Prarabdha (प्रारब्ध ) karma is experienced and completed. However, the unwise man thinks that entire life is real and happiness and sorrow is experienced by aatma. 
 
 This way due to the capture of body, even wise people get sorrow. 
+
+Even Gods will go through sorrow as they will hold a body. 
+
+**Question: (पूर्व पक्ष):** How can a God have sorrow
+**Response by vedanti (सिद्धांति)**: Gods will be at fight with demons, the fear of losing, fear of death will invite sorrow. 
