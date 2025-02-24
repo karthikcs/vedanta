@@ -67,7 +67,14 @@ How those who themselves suffer can be a refuge for others, or how can they prov
 
 **Response by vedanti (सिद्धांति)**: There are 4 types of liberation. 
 
-- सालोक्यम् -  
+- सालोक्यम्  
 - सामीप्यम् 
 - सारूप्यम् 
 - सायुज्यम् 
+
+You can read more about this in [[Vedanta Notes/General Terms/4 Types of Liberations - चतुर्विध मुक्ति\|4 Types of Liberations - चतुर्विध मुक्ति]]
+
+Out of these, first 3 are not important for advaita. Sayujya सायुज्यम् is the only way as per Advaita philosophy.
+
+### Page 22
+
