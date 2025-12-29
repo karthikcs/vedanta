@@ -74,14 +74,14 @@ This verse highlights the concept that while the experiences in the dream state 
 
 Similarly, even in deep sleep, there is no multiplicity in consciousness, which proves its oneness. The wise ones affirm this in the beginning |
 
-This sentence indicates that the text will now focus on the deep sleep state (sushupti) and aim to establish that even in this state, consciousness is one and undivided. It starts by asserting the existence of the deep sleep state itself.
+This sentence indicates that the we will now focus on the deep sleep state (सुषुप्ति) and aim to establish that even in this state, consciousness is one and undivided. It starts by asserting the existence of the deep sleep state itself.
 
 सुप्तोत्थितस्य सौषुप्तिकतमो बोधो भवेत् स्मृतिः । 
 सा चाऽवबुद्धाविषयाऽवबुद्धं तत्तदा तमः ॥ ५ ॥
 
 Upon waking from deep sleep, the ignorance experienced during deep sleep is remembered. This ignorance is recognized as an object by the awakened mind ॥ 5 ॥
 
-The verse emphasizes the continuity of consciousness and memory across different states of being. Even though one may not be actively aware during deep sleep, upon waking, one can recall that state of deep sleep as a period of ignorance. This recollection is possible because the underlying consciousness remains constant, providing a basis for memory and awareness across different states.
+The verse emphasizes the continuity of consciousness and memory across different states of being. Even though one may not be actively aware during deep sleep, upon waking, one can recall that state of deep sleep as a period of ignorance. This recollection is possible because the underlying consciousness remains constant, providing a basis for memory and awareness across different states. Also recollection can not happen if object was not experienced. If we are able to recollect the state deep relaxation, that should have been experienced. The entity that experiences everything is the Consciousness, which is the same entity in all 3 states.
 
 ## Shloka 6 & 7:
 
