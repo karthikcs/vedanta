@@ -69,7 +69,7 @@ Now the the question is how did Ishwara (ईश्वर) create the world?
 As mentioned in the previous illustration the part of Ignorance with more of Rajo guna, is called avidyaa (अविद्या). This is of infinite types and manifests itself into infinite ways. On this avidyaa (अविद्या) the consciousness (चैतन्य) is  superimposed to create millions of jeevas (जीव). Due to the fact that Avidyaa is infinite, jeevas are also infinite. Individual souls (जीव) are the superimpositions of the consciousness (चैतन्य)  on avidyaa (अविद्या) and aggregate soul (समष्टि) is superimposition of the same consciousness (चैतन्य) on ignorance (मूलप्रकृति). This is the nature of causal body (कारण शरीर). The state of these causal bodies is the deep sleep (सुषुप्ति). These causal bodies form the Bliss layer (आनंदमय कोश ), which  contains only avidyaa (अविद्या) and consciousness चैतन्य. This is how causal body is created. Please note that this is not a physical body 
 
 >[!tip]- Read more about 5 Layers पंचकोश 
->[[Vedanta Notes/General Terms/5 Layers of body\|5 Layers of body]]
+>[[Vedanta Notes/General Terms/5 Layers of body - पंच कोश विवेक\|5 Layers of body - पंच कोश विवेक]]
 
 Now let us understand the creation of subtle body (सूक्ष्म शरीर). By the way influence of Ishwara (ईश्वर) the nature transforms into 2 types. Avarana (आवरण शक्ति)  and Vikshepa (विक्षेप शक्ति). At first from Vikshepa energy (विक्षेप शक्ति) the subtle (सूक्ष्म) sky (आकाश) formed. From sky (आकाश) air (वायु) came, air (वायु) formed the fire (अग्नि), from fire (अग्नि) came water (आपः), from water (आपः) came the earth (पृथिवी). Hence these 5 subtle elements of their individual nature got created. They are also called as non-combined (अपंचीकृतानी), subtle elements (तन्मात्राणी) . Read more [[Vedanta Notes/General Terms/5 Basic Elements - पंच महाभूतानि\|5 Basic Elements - पंच महाभूतानि]]
 
@@ -90,7 +90,7 @@ From the **Rajas quality (रजोगुण)** of the aggregation of 5 subtle e
 ### Page 5
 
 Definition of **Subtle body (सूक्ष्म शरीर)**
-The group of 5 five sense organs (पंच ज्ञानेन्द्रिय), 5 organs of work (पंच कर्मेन्द्रिय), 5 life forces (पंच प्राण) along with Intellect (बुद्धि) and Mind (मनस) these 17 together form the subtle body (सूक्ष्म शरीर) also called as linga shareera (लिंग शरीर). This subtle body is needed for experiencing the life. In this subtle body itself jeeva and Ishwara have the dream state (स्वप्नावस्था). In this subtle body itself, Vijnanamaya kosha, Mano maya kosha and praana maya koshas are there [[Vedanta Notes/General Terms/5 Layers of body\|5 Layers of body]]
+The group of 5 five sense organs (पंच ज्ञानेन्द्रिय), 5 organs of work (पंच कर्मेन्द्रिय), 5 life forces (पंच प्राण) along with Intellect (बुद्धि) and Mind (मनस) these 17 together form the subtle body (सूक्ष्म शरीर) also called as linga shareera (लिंग शरीर). This subtle body is needed for experiencing the life. In this subtle body itself jeeva and Ishwara have the dream state (स्वप्नावस्था). In this subtle body itself, Vijnanamaya kosha, Mano maya kosha and praana maya koshas are there [[Vedanta Notes/General Terms/5 Layers of body - पंच कोश विवेक\|5 Layers of body - पंच कोश विवेक]]
 
 Now, let us understand the formation of gross body (स्थूल शरीर). To form the gross body the 5 basic elements in the Tamas (तमस) form undergo a process of Panchikaranam. [[Vedanta Notes/General Terms/Panchikaranam (पंचीकारणं)\|Panchikaranam (पंचीकारणं)]]
 
