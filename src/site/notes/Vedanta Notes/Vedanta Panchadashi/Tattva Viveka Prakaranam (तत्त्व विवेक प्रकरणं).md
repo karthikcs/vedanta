@@ -5,6 +5,7 @@
 >[!tip] Tattva Viveka prakaranam
 >Chapter on the Discrimination of Reality
 
+
 ## Shloka 1:
 
 ### मङ्गलाचरणम् 
@@ -100,9 +101,13 @@ The verse emphasizes the continuity of consciousness and memory across different
 - **Across Days:** The consciousness you have today is identical in essence to the consciousness you had yesterday and the one you will have tomorrow.
 
 **The conclusion**
-The consciousness (संविद्) is non-dual and eternal. While our experiences are fragmented (we wake up, we sleep, months pass), the underlying "Screen of Consciousness" is one continuous, unbroken reality. It concludes that because consciousness never "parts" from itself and doesn't change across states or days, it must be the आत्मा —the eternal Self.
+The consciousness (संविद्) is non-dual and eternal. While our experiences are fragmented (we wake up, we sleep, months pass), the underlying "Screen of Consciousness" is one continuous, unbroken reality. It concludes that because consciousness never "parts" from itself and doesn't change across states or days, it must be the आत्मा —the eternal Self. Because the nature of आत्मा is the same as nature of consciousness
 
-### Some more analysis:
+>[!tip]- Characteristics of Consciousness
+>Read more about this topic here [[Vedanta Notes/General Terms/Characteristics of Brahma\|Characteristics of Brahma]] 
+>
+
+
 
 
 
