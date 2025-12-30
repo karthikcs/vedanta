@@ -17,7 +17,7 @@ Everything that moves is conscious, and all that is stationary (immovable) is un
 
 **Question:**  Now, we have many conscious and unconscious things separately, now how can we say that is of only 2 types
 Unconscious is of only one type. Due to the actions and appearance we feel that of many kinds. 
-We know Atma is only ONE. Which is Satyam, Jnanam and Anantam [[Vedanta Notes/General Terms/Satyam Jnanam and Anantam - सत्यं, ज्ञानम्, आनंतम्\|Satyam Jnanam and Anantam - सत्यं, ज्ञानम्, आनंतम्]]
+We know Atma is only ONE. Which is Satyam, Jnanam and Anantam [[Vedanta Notes/General Terms/Characteristics of Brahma\|Characteristics of Brahma]]
 
 Now due to different actions, anaatma is bound to be appearing as different entities, we also feel we have many conscious beings (जीवाः)  and many Ishwaras (ईश्वराः). 
 
@@ -37,10 +37,10 @@ Let us continue the illustration of reflection of sun on different water bodies.
 So, what are all the modifications in the जीव - The nature of body-mind complex, the feeling of doer (कर्तृत्व), feeling of enjoyer (भोक्तृत्व), changes in the bodies happen only to the jeeva who is the holder of body-mind (अन्तः करण) but not the real essence which is reflecting in him.
 
 Another illustration 
-The water is referred to as ocean, river, well, pond, pot water etc, but still the essence of water which is wetness and coolness is maintained. In the same way #Brahma (ब्रह्म) is appearing in different forms but maintaining the same essence of [[Vedanta Notes/General Terms/Satyam Jnanam and Anantam - सत्यं, ज्ञानम्, आनंतम्\|Satyam Jnanam and Anantam - सत्यं, ज्ञानम्, आनंतम्]]
+The water is referred to as ocean, river, well, pond, pot water etc, but still the essence of water which is wetness and coolness is maintained. In the same way #Brahma (ब्रह्म) is appearing in different forms but maintaining the same essence of [[Vedanta Notes/General Terms/Characteristics of Brahma\|Characteristics of Brahma]]
 
 **Question**: If the individual soul (जीव) is imagined and therefore false, how it be identical to the supreme truth which is #Brahma (ब्रह्म)? 
 
-The answer is that the Jīva (जीव) is of three types: transcendental (पारमार्थिक), empirical (व्यावहारिक), and phenomenal (प्रातिभासिक). These three types of Jīva successively identify with deep sleep, waking state, and dream state. Let us now see an illustration. In the same way waves are created in water, water foam (bubbles) are hence created within waves, the same way within transcendental (पारमार्थिक), empirical (व्यावहारिक) is imagined. In the same way  phenomenal (प्रातिभासिक) is imagined within empirical (व्यावहारिक). The same way, the essence of water which is sweetness, wetness and coolness is there in waves as well as as in foam, the transcendental (पारमार्थिक) essence  सच्चिदानंद [[Vedanta Notes/General Terms/Satyam Jnanam and Anantam - सत्यं, ज्ञानम्, आनंतम्\|Satyam Jnanam and Anantam - सत्यं, ज्ञानम्, आनंतम्]]  of #Brahma exists in other forms as well. 
+The answer is that the Jīva (जीव) is of three types: transcendental (पारमार्थिक), empirical (व्यावहारिक), and phenomenal (प्रातिभासिक). These three types of Jīva successively identify with deep sleep, waking state, and dream state. Let us now see an illustration. In the same way waves are created in water, water foam (bubbles) are hence created within waves, the same way within transcendental (पारमार्थिक), empirical (व्यावहारिक) is imagined. In the same way  phenomenal (प्रातिभासिक) is imagined within empirical (व्यावहारिक). The same way, the essence of water which is sweetness, wetness and coolness is there in waves as well as as in foam, the transcendental (पारमार्थिक) essence  सच्चिदानंद [[Vedanta Notes/General Terms/Characteristics of Brahma\|Characteristics of Brahma]]  of #Brahma exists in other forms as well. 
 
 End of 3rd chapter 

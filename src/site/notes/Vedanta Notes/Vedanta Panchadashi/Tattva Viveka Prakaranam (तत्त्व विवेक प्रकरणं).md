@@ -81,7 +81,7 @@ This sentence indicates that the we will now focus on the deep sleep state (स�
 
 Upon waking from deep sleep, the ignorance experienced during deep sleep is remembered. This ignorance is recognized as an object by the awakened mind ॥ 5 ॥
 
-The verse emphasizes the continuity of consciousness and memory across different states of being. Even though one may not be actively aware during deep sleep, upon waking, one can recall that state of deep sleep as a period of ignorance. This recollection is possible because the underlying consciousness remains constant, providing a basis for memory and awareness across different states. Also recollection can not happen if object was not experienced. If we are able to recollect the state deep relaxation, that should have been experienced. The entity that experiences everything is the Consciousness, which is the same entity in all 3 states.
+The verse emphasizes the continuity of consciousness and memory across different states of being. Even though one may not be actively aware during deep sleep, upon waking, one can recall that state of deep sleep as a period of ignorance. This recollection is possible because the underlying consciousness remains constant, providing a basis for memory and awareness across different states. Also recollection can not happen if object was not experienced. If we are able to recollect the state deep relaxation, that should have been experienced. The entity that experiences everything is the Consciousness (the witness), which is the same entity in all 3 states.
 
 ## Shloka 6 & 7:
 
@@ -90,6 +90,21 @@ The verse emphasizes the continuity of consciousness and memory across different
 
 मासाब्दथुगकसपेषु गतागतेष्वनेकधा । 
 नोदेति नाऽस्तमेत्येका संविदेषा खयम्प्रभा ॥ ७ ||
+
+**Consciousness vs. Objects** The 6th verse argues that the "light" of awareness is separate from the "things" it illuminates. Just as a physical lamp is different from the table or chair it shines upon. Similarly our consciousness is distinct from the thoughts, images, or physical objects it perceives.
+
+**The Consistency of "Knowing"** Author Sri Vidyaranya points out that the consciousness we have while dreaming is the _same_ consciousness we have while awake. The "scenery" changes (from a dream world to a real bedroom), but the "Knowingness" (बोधा) does not change its nature. It doesn't become "dream-flavored" or "waking-flavored"; it remains pure awareness
+
+**Bridging the Gap of Time** The second half of the verse and 7th verse extends this logic to time
+- **The Three States:** In waking, dreaming, and deep sleep, the "knower" is the same.
+- **Across Days:** The consciousness you have today is identical in essence to the consciousness you had yesterday and the one you will have tomorrow.
+
+**The conclusion**
+The consciousness (संविद्) is non-dual and eternal. While our experiences are fragmented (we wake up, we sleep, months pass), the underlying "Screen of Consciousness" is one continuous, unbroken reality. It concludes that because consciousness never "parts" from itself and doesn't change across states or days, it must be the आत्मा —the eternal Self.
+
+### Some more analysis:
+
+
 
 
 
