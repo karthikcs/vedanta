@@ -37,11 +37,11 @@ How can we say Knowledge is unbroken, eternal and only one?
 One might wonder how we  "knowing a pot" and "knowing a cloth" are not the multiplicity of knowledge. When we can say "I just gained knowledge" there is a birth of knowledge, so how can it be eternal and unbroken? 
 
 The next few phrases explain that these differences are only due to the external objects and the mental states associated with them, not a change in the underlying Consciousness itself.
-## Shloka 3:
 
- **ज्ञानस्य नित्यत्व  निरूपणम् ।**
+**ज्ञानस्य नित्यत्व  निरूपणम् ।**
 
 Establishing the fact of permanence and infinity of knowledge.
+## Shloka 3:
 
 शब्दस्पर्शादयो वेद्या वैचित्र्याज्जागरे पृथक् । 
 ततो विभक्ता तत्संविदैकरूप्यान्न भिद्यते ॥ ३ ॥
@@ -140,10 +140,43 @@ The consciousness (संविद्) is non-dual and eternal. While our experi
 >Read more about this topic here [[Vedanta Notes/General Terms/Characteristics of Brahma\|Characteristics of Brahma]] 
 >
 
-Till now it has been established that consciousness is the same eternal entity, existed all the time, unbroken in all the 3 states without any break. 
+Till now it has been established that consciousness is the same eternal entity, existed all the time, unbroken in all the 3 states. 
 
 
 
+**ज्ञानस्य आत्मत्वपरमानन्दत्वनिरूपणम्** 
+
+The demonstration of Knowledge as the Self (आत्मा) and as Supreme Bliss (आनन्द)
+
+## Shloka 8:
+
+इयमात्मा परानन्दः परप्रेमास्पदं  यतः । 
+मा न भूव हि भूयासमिति प्रेमात्मनीक्ष्यते  ॥ ८ ॥
+
+We already know Self (आत्मा) is eternal (नित्यम्). If anything is eternal, that should be the Truth as well. One entity that can achieve this is the consciousness (संविद्), as we have already established that it is eternal in the previous phrase. Due to the fact that it is eternal, it should be Truth as well. Because there is no difference (अभिन्नं) between the characteristics of consciousness (संविद्) and Self (आत्मा), we can prove both are same.
+
+It is proven by the universal, instinctive desire: "May I never cease to be, may I exist forever." This reveals that we love our own existence above all else. This isn't just a casual thought; it is a **universal longing**. Even when a person is suffering, the core "I" wants to continue existing. The text argues that we never wish for our own absolute destruction.
+
+So, why do we want to exist forever?
+- We only want things to persist if we **love** them or if they bring us **happiness**.
+- Since the desire for self-existence is "unconditional" (we want to exist even when we don't have external possessions), it proves that the **Self is the most beloved thing.**
+
+In Advaita philosophy, **Love (प्रेम)** and **Happiness (आनन्द)** are two sides of the same coin:
+- You love something because it is a source of joy.
+- If you love your "Self" more than anything else (more than wealth, fame, or even your own body), then the "Self" must be the **highest source of joy (Supreme bliss)**.
+
+
+**ज्ञानस्य परब्रह्माभिन्नत्वनिरूपणं** 
+The Demonstration of the identity between Knowledge and Supreme Brahman
+
+## Shloka 9:
+
+इत्थम् सच्चित्परानन्द आत्मा युक्त्या तथाविधम्  |
+परं ब्रह्मा तयोश्चैक्यं श्रुत्यन्तेषूपदिष्यते ॥ १०॥
+
+Through logical reasoning, the Self is proven to be of the nature of Existence, Consciousness, and Supreme Bliss (सत् चित् आनन्द). The Upanishads have declared that the Supreme Brahman is of that same nature, concluding that the individual Self and the Absolute Brahman are fundamentally one and the same.
+
+The author is emphasizing that this isn't "blind faith." You don't have to believe in a far-off God to understand this. By simply analyzing your own experience—the fact that you exist, that you are aware, and that you love your own life—you can logically conclude that your true nature is **Existence-Consciousness-Bliss.**
 
 
 
