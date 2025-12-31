@@ -28,15 +28,25 @@ We need to understand few points here
 - A pure mind is prerequisite for the knowledge that's going to be told in this text
 - Service of the Guru's feet doesn't necessarily mean physical service by rubbing or touching, instead performing Shravanam, mananam and Nidhidyasanam in the supervision of the Guru. 
 
+The author starts with a doubt
 
+If Brahman (ultimate reality) is defined as **Eternal, One, and the very nature of Knowledge itself**, how do we explain the variety of different thoughts we have in our daily lives?
+
+How can we say Knowledge is unbroken, eternal and only one?
+
+One might wonder how we  "knowing a pot" and "knowing a cloth" are not the multiplicity of knowledge. When we can say "I just gained knowledge" there is a birth of knowledge, so how can it be eternal and unbroken? 
+
+The next few phrases explain that these differences are only due to the external objects and the mental states associated with them, not a change in the underlying Consciousness itself.
 ## Shloka 3:
 
-### ज्ञानस्य नित्यत्व  निरूपणम् ।
+ **ज्ञानस्य नित्यत्व  निरूपणम् ।**
 
 Establishing the fact of permanence and infinity of knowledge.
 
 शब्दस्पर्शादयो वेद्या वैचित्र्याज्जागरे पृथक् । 
 ततो विभक्ता तत्संविदैकरूप्यान्न भिद्यते ॥ ३ ॥
+
+**Focusing wakeful state:**
 
 Sound, touch, and other objects of knowledge are distinct in wakefulness due to their diversity. But they are not different from the one consciousness that is their essence. ॥ 3 ॥
 
@@ -45,7 +55,7 @@ Sound, touch, and other objects of knowledge are distinct in wakefulness due to 
 More information about this [[Vedanta Notes/General Terms/3 States of Consciousness - अवस्था त्रय\|3 States of Consciousness - अवस्था त्रय]]
 
 
-This verse explains that in the waking state, our perceptions of sound, touch, and other objects appear distinct due to their different qualities. However, the underlying reality is that all these perceptions arise from a single consciousness. This consciousness is the unifying principle behind all diversity.
+The text argues that while the things we hear, touch, or see are all different from one another, the **act of knowing** them (Awareness) does not change its nature.
 
 >[!tip]- Pancha Mahaabhoota (पंच महाभूतानि) - 5 Basic elements 
 >*Akaasha (आकाश ) - Space*: From space we get the perception of शब्द (sound)
@@ -55,6 +65,29 @@ This verse explains that in the waking state, our perceptions of sound, touch, a
 >*Pruthvi (पृथ्वी) - Earth*:  From earth we get the perception of गंध (smell)
 >For more information about this read [[Vedanta Notes/General Terms/5 Basic Elements - पंच महाभूतानि\|5 Basic Elements - पंच महाभूतानि]]
 
+
+#### 1. The Diversity of the Known (वेद्या)
+
+The text lists the things that are "knowable" and distinct:
+
+- **Sensory Objects:** Sound (_Shabda_), Touch (_Sparsha_), etc. These are the objects of the ears and skin.
+    
+- **The Instruments:** The senses themselves (ears, skin, etc.) and the elements like Space (_Akasha_) that allow them to function.
+    
+- **The Difference:** In the waking state, these objects are separate (पृथक्) and different (भिन्न) because they have "different natures" . A sound is not a touch; a pot is not a cloth.
+
+#### 2. The Unity of Consciousness (संविद्)
+
+Despite the variety of objects, the text makes a crucial distinction about the **Awareness** (संविद्) of them:
+
+- **Vibhakta (Detached):** Consciousness is "set apart" from the objects. Even though it reveals the objects, it does not become them.
+    
+- **Na Bhidyate (Does not divide):** The awareness of a sound is the same "awareness" as the awareness of a touch. The _content_ changes, but the _light_ of awareness remains identical.
+    
+- **Ekarupyat (Uniformity):** The reason Consciousness is one is its **singular nature**. It does not have parts or different "flavors."
+
+>[!tip]- Light Analogy
+>[[Vedanta Notes/General Terms/Light analogy of Brahman\|Light analogy of Brahman]]
 
 ## Shloka 4:
 
@@ -67,7 +100,7 @@ Having established the oneness of consciousness in wakefulness, it is also expla
 
 Similarly, in dreams, the object of knowledge is not stable, nor is it stable in wakefulness. Therefore, the consciousness that is the essence of both is not different. ॥ 4 ॥
 
-This verse highlights the concept that while the experiences in the dream state and the waking state may seem different in terms of stability, the underlying consciousness that experiences both is the same and undivided.
+This verse highlights the concept that while the experiences in the dream state and the waking state may seem different in terms of stability, the underlying consciousness that experiences both is the same and undivided. The light of consciousness illuminating the dream-mountain is the same light illuminating the waking-mountain.
 
 ## Shloka 5:
 
@@ -75,7 +108,7 @@ This verse highlights the concept that while the experiences in the dream state 
 
 Similarly, even in deep sleep, there is no multiplicity in consciousness, which proves its oneness. The wise ones affirm this in the beginning |
 
-This sentence indicates that the we will now focus on the deep sleep state (सुषुप्ति) and aim to establish that even in this state, consciousness is one and undivided. It starts by asserting the existence of the deep sleep state itself.
+We will now focus on the deep sleep state (सुषुप्ति) and aim to establish that even in this state, consciousness is one and undivided. It starts by asserting the existence of the deep sleep state itself.
 
 सुप्तोत्थितस्य सौषुप्तिकतमो बोधो भवेत् स्मृतिः । 
 सा चाऽवबुद्धाविषयाऽवबुद्धं तत्तदा तमः ॥ ५ ॥
@@ -107,7 +140,7 @@ The consciousness (संविद्) is non-dual and eternal. While our experi
 >Read more about this topic here [[Vedanta Notes/General Terms/Characteristics of Brahma\|Characteristics of Brahma]] 
 >
 
-
+Till now it has been established that consciousness is the same eternal entity, existed all the time, unbroken in all the 3 states without any break. 
 
 
 
