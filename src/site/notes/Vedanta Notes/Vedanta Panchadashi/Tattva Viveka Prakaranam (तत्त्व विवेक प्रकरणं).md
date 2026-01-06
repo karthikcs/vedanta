@@ -217,19 +217,38 @@ After establishing the nature of Self as the same as Brahma, we still have doubt
 The author concludes that in our current state of ignorance (अविद्या), the Bliss of the Self is **partially manifest** (allowing us to love ourselves) but **partially hidden** (causing us to seek happiness in external things).
 
 
-आत्मभाने प्रतिबन्धविचारः 
+**आत्मभाने प्रतिबन्धविचारः** 
 
 The discussion about obstacles (Blockages) to the Manifestation of the Self. The student naturally asks: **"If the Self is self-luminous like the sun, what could possibly be strong enough to obstruct it?"**
 ## Shloka 12:
 
+अध्येतृवर्गमध्यस्थपुत्राध्ययनशब्दवत् ।
+भानेऽप्यभानं भानस्य प्रतिबन्धेन युज्यते ॥ १२ ॥
 
 
+This verse uses a brilliant analogy to explain how something can be present and perceived, yet simultaneously unrecognized.
+
+**The Analogy: The Student in the Choir**
+
+Imagine a group of students all chanting the Vedas together in unison. A father is standing nearby. His own son is in that group, chanting loudly.
+
+- **The Perception:** The father hears the sound of his son's voice. It is physically hitting his ears.
+- **The Obstacle:** Because all the other students are chanting the same words at the same time, with same pitch, the son's specific voice is "drowned out" or blurred by the collective sound. The father cannot distinguish, "This is my son's specific voice."
+
+## Shloka 13:
+
+प्रतिबन्धोऽस्ति भातीति व्यवहारार्हवस्तुनि ।
+तन्निरस्य विरुद्धस्य  तस्योत्पादनमुच्यते ॥ १३॥
+
+It provides a precise definition of what a "blockage" (प्रतिबन्ध) actually does to our consciousness.
+
+The verse explains that the reason you don't feel like a "Supreme Being of Bliss" is because a specific mental obstacle has **dismissed** the truth and **replaced** it with a false, opposite feeling of lack and limitation.
+
+It is like a person who is rich but has amnesia; the amnesia "dismisses" the fact of their wealth and "generates" the false identity of being a beggar
 
 
+## Shloka 14:
 
-
-
-
-
-
+तस्य हेतुः समानाभिहारः पुत्रध्वनिश्रुतौ । 
+इहाऽनादिरविद्यैव व्यामोहैकनिबन्धनम् ॥ १४ ॥
 
