@@ -252,3 +252,32 @@ It is like a person who is rich but has amnesia; the amnesia "dismisses" the fac
 तस्य हेतुः समानाभिहारः पुत्रध्वनिश्रुतौ । 
 इहाऽनादिरविद्यैव व्यामोहैकनिबन्धनम् ॥ १४ ॥
 
+This verse explains the **cause** of the obstruction described in the previous verses by revisiting the earlier analogy.
+
+In the example of the father trying to hear his son's voice:
+
+- **The Cause:** "the mixing or overwhelming of similar things." (समानाभिहारः)
+- Because the other students are chanting the **same** words with the **same** pitch and rhythm, the individual identity of the son's voice is lost in the crowd. The "commonality" acts as the barrier.
+
+In the case of the Self (_Atman_):
+
+- **The Cause:** The obstacle is Ignorance (अविद्या)
+- It is the root reason why we confuse the body with the Self and why we feel we are "not Blissful." and it is beginningless
+
+The verse establishes that:
+
+1. Ignorance is the root cause.
+2. It is not a lack of light, but a "mixing" of the Real with the Unreal.
+
+
+**प्रकृतिस्वरूपनिरूपणम्‌** 
+
+The definition of the character of Primordial Nature (प्रकृति)
+## Shloka 15:
+
+चिदानन्दमयब्रह्मप्रतिबिम्बसमन्विता । 
+तमोरजस्सत्त्वगुणा प्रकृतिर्द्विविधा च सा ॥ १५ ॥
+
+Prakriti is essentially a "mirror" made of three qualities that catches the reflection of the Absolute. Depending on how clean that mirror is (the quality of Sattva), it is called either _Maya_ or _Avidya_.
+
+
