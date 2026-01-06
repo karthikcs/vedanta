@@ -165,18 +165,69 @@ In Advaita philosophy, **Love (प्रेम)** and **Happiness (आनन्�
 - You love something because it is a source of joy.
 - If you love your "Self" more than anything else (more than wealth, fame, or even your own body), then the "Self" must be the **highest source of joy (Supreme bliss)**.
 
+## Shloka 9:
+
+ तत्प्रेमर्थमन्यत्र नैवमन्यार्थमात्मनः  ।
+अतस्तत्परमं तेन परमानन्द्ताऽत्मनः  ॥ ९॥
+
+This verse provides  the argument that you are the source of supreme happiness. It uses a logic of **unconditional vs. conditional love** to prove that the Self (आत्मा) is the highest bliss
+
+Everything in the world is loved for the sake of the Self, but the Self is loved for its own sake and never for the sake of anything else. Therefore, because the Self is the ultimate and absolute object of love, it is proven to be the nature of Supreme Bliss.
+
+The first half explains why we love external things (money, family, health, objects).
+
+- We do not love a bank account for the paper's sake; we love it for the security or pleasure **it gives us**.
+- We love our friends and family because they bring **us** joy or fulfill **our** life.
+- Logic: All external love is **instrumental** (a means to an end).
+
+This is the "flip side" of the logic.
+
+- Do you love yourself so that you can get a promotion? No. Even if you lose your job, your health, or your money, the core "I" still wants to exist and be happy.
+- The love for the Self is **terminal** (the end goal). It is never a "tool" used to achieve something else.
+
+Because the love for the Self is the only love that doesn't depend on a reason or a benefit, it is called **Paramam** (Supreme/Absolute). We can hence state the self is the one which has highest level of bliss for us.
+
 
 **ज्ञानस्य परब्रह्माभिन्नत्वनिरूपणं** 
 The Demonstration of the identity between Knowledge and Supreme Brahman
 
-## Shloka 9:
+## Shloka 10:
 
 इत्थम् सच्चित्परानन्द आत्मा युक्त्या तथाविधम्  |
 परं ब्रह्मा तयोश्चैक्यं श्रुत्यन्तेषूपदिष्यते ॥ १०॥
 
-Through logical reasoning, the Self is proven to be of the nature of Existence, Consciousness, and Supreme Bliss (सत् चित् आनन्द). The Upanishads have declared that the Supreme Brahman is of that same nature, concluding that the individual Self and the Absolute Brahman are fundamentally one and the same.
+Through logical reasoning, the Self is proven to be of the nature of Existence, Consciousness, and Supreme Bliss (सत् चित् आनन्द). The Upanishads have declared that the Supreme Brahman is of the same nature, concluding that the individual Self and the Absolute Brahman are fundamentally one and the same.
 
 The author is emphasizing that this isn't "blind faith." You don't have to believe in a far-off God to understand this. By simply analyzing your own experience—the fact that you exist, that you are aware, and that you love your own life—you can logically conclude that your true nature is **Existence-Consciousness-Bliss.**
+
+**आत्मनः परमानन्दरूपत्वे  विप्रतिपत्तिमशक्या  परिहरति, अभान  इति**
+
+After establishing the nature of Self as the same as Brahma, we still have doubt if that is true. Because normally we don't recognize it. We always feel sorrow, we are in pain, we feel limited. Then how can we be the same as brahma. In the upcoming verses this doubt will be addressed
+
+
+## Shloka 11:
+
+अभाने न परं प्रेम, भाने न विषये श्पृहा । 
+अतो भानेऽप्यभाताऽसौ परमानन्दताऽत्मनः ॥ ११ ॥
+
+*If it were totally unmanifest, there would be no supreme love.* If your true nature as Bliss were _completely_ unknown to you, you would not love yourself at all. We only love things we know or experience as good. The fact that you have an instinctive, supreme love for your own existence proves that the Bliss is "shining" at some level.
+
+*If it were totally manifest, there would be no desire for objects*. If your nature as Supreme Bliss were _fully_ and clearly manifest to you right now, you would never crave a cup of coffee, a new car, or external validation. Why? Because if you have the ocean, you don't go looking for a drop of water. Desire  for objects proves that the Bliss is "hidden" at some level.
+
+The author concludes that in our current state of ignorance (अविद्या), the Bliss of the Self is **partially manifest** (allowing us to love ourselves) but **partially hidden** (causing us to seek happiness in external things).
+
+
+आत्मभाने प्रतिबन्धविचारः 
+
+The discussion about obstacles (Blockages) to the Manifestation of the Self. The student naturally asks: **"If the Self is self-luminous like the sun, what could possibly be strong enough to obstruct it?"**
+## Shloka 12:
+
+
+
+
+
+
+
 
 
 
