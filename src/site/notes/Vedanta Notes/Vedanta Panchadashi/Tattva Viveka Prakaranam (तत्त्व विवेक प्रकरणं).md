@@ -278,11 +278,93 @@ The definition of the character of Primordial Nature (प्रकृति)
 चिदानन्दमयब्रह्मप्रतिबिम्बसमन्विता । 
 तमोरजस्सत्त्वगुणा प्रकृतिर्द्विविधा च सा ॥ १५ ॥
 
-Prakriti is essentially a "mirror" made of three qualities that catches the reflection of the Absolute. Depending on how clean that mirror is (the quality of Sattva), it is called either _Maya_ or _Avidya_.
+Prakriti is essentially a "mirror" made of three qualities that catches the reflection of the Absolute brahma. Depending on how clean that mirror is (the quality of Sattva, Rajas and Tamas), it is called either _Maya_ or _Avidya_.
+
+Maya - Is mostly filled with Shuddha chaitanya which is Sattva guna
+Avidya - Is mostly with Rajas and Tamas
 
 
 >[!tip]- Read more about 3 fundamental gunas
 >[[Vedanta Notes/General Terms/3 Fundamental Qualities - त्रिगुण\|3 Fundamental Qualities - त्रिगुण]]
 
+In reality, there is only Brahman. But for the sake of explaining the world, we speak of Prakriti. This Prakriti is a reflection-bearing medium. We divide it into two (Maya and Avidya) to explain why there is a God who controls the world and an individual who suffers in it. These are not real divisions in the Truth; they are divisions in the reflection.
 
+>[!tip]- Read more about 2 types of Prakruti
+>[[Ignorance.svg]]
+
+
+Prakriti is split based on the **limitations (उपाधि)** of the Jiva and Ishvara.
+
+- **Maya:** Pure Sattva (The medium for Ishvara/God).
+- **Avidya:** Impure Sattva (The medium for Jiva/Individual Soul).
+- There is 3rd aspect which is Tamas pradhaana prakruti which is the material cause of the physical world 
+
+Sage Vidyaranya argues Maya and Avidya is sufficient because the world-creating power (Tamas) can be considered a part or an extension of the primary power.
+
+
+**कारणदारीरनिरूपणम्‌** 
+
+Explanation of causal body 
+
+## Shloka 16:
+
+सत्त्वशुद्ध्यविशुद्धिभ्यां मायाविद्ये च ते मते । 
+मायाबिम्बो वशीकृत्य तां स्यात्सर्वज्ञ ईश्वरः ॥ १६ ॥
+
+
+**The Definitions of Purity and Impurity**
+
+This explains what is meant by the "Cleanness" of the reflected medium:
+
+- **Sattva-Shuddhi (Purity):** Defined as गुणान्तरेण अनभिभवः —a state where the quality of Sattva (light) is **not overwhelmed** by the other two qualities (Rajas and Tamas). It is like a clear, steady flame.
+- **Avi-shuddhi (Impurity):** This is described as _Raja-stamobhyam mishranam_—the **mixing** of Sattva with Rajas (activity/passion) and Tamas (dullness/inertia) in varying proportions. This mixing "soils" the mirror.
+
+## Shloka 17:
+
+अविद्यावशगस्त्वन्यस्तद्वैचित्र्यादनेकधा ।
+सा कारणशरीरं स्यात्प्राज्ञस्तत्राभिमानवान् ॥ १७ ॥
+
+
+**The Definition of the Jiva**
+The text distinguishes the Jiva from Ishvara (God) based on the medium of reflection:
+
+- **The Medium:** Unlike Ishvara (who reflects in pure Sattva), the Jiva is the reflection of Consciousness in **Malina-Sattva** (Impure Sattva).
+- **The Condition:** Because the medium is soiled by Rajas and Tamas, the Jiva is अविद्यावशग—under the control of ignorance.
+
+A common question is: "If Brahman is one, why are there billions of people?"
+- **The Logic of Variety (_Vaichitryat_):** The commentary explains that the mixture of Rajas and Tamas is never identical.
+- Just as different shades of grey are created by mixing different amounts of black and white, the "impurity" in the Sattva varies in every individual.
+- **The Result:** This creates the diverse forms of life—**Deva** (gods/celestial beings), **Manushya** (humans), and **Tiryaga** (animals/plants).
+
+The text defines the "Causal Body," which is the most subtle of the three bodies we possess:
+- **Why "Causal"** (कारणशरीरं): It is called the cause because it is the "seed" from which the Gross Body (physical) and Subtle Body (mental) arise.
+- **Why "Body" (_Sharira_):** The word _Sharira_ comes from the root meaning "that which perishes" (_Shiryamanatvat_). Even this deep causal ignorance is temporary and will be destroyed by Knowledge.
+
+The commentary introduces a specific name for the Jiva when it is identified with this Causal Body:
+
+- **Prajna (प्राज्ञ):** This is the name of the consciousness in the state of **Deep Sleep** (_Sushupti_).
+- **The Logic:** Even though we aren't "thinking" in deep sleep, we have a form of "undifferentiated knowledge" (_Prajna_). We know "nothing," but we are aware of that "nothingness."
+- **Comparison:** Just as the Jiva has a Causal Body (Avidya), the text hints that **Maya** is the Causal Body of **Ishvara**.
+
+
+**लिङ्ग शरीर निरूपणं** 
+Demonstration of subtle body
+## Shloka 18:
+
+तमःप्रधानप्रकृतेस्तद्भोगायेश्वराज्ञया । 
+वियत्पवनतेजोऽम्बुभुवो भूतानि जज्ञिरे ॥ १८ ॥
+
+The text explains that the universe is not created randomly. It is created for the experience (भोग) of the Jivas (referred to here as _Prājñas_). 
+
+- **Definition of Bhoga:** The text defines it as **Sukha-duhkha-anubhavāya** — "the experience of pleasure and pain."
+- **The Logic:** Jivas have past karmas. To "reap" the results of those actions, they need a physical environment. Therefore, the world is essentially a "field of experience."
+
+**The Material: "तमःप्रधानप्रकृते"**
+This indicates the material cause for the creation of universe is the तमःप्रधानप्रकृतिः 
+
+| **State of Prakriti** | **Dominant Guna**               | **Resulting Entity**          |
+| --------------------- | ------------------------------- | ----------------------------- |
+| **Māyā**              | Pure Sattva (_Śuddha-sattva_)   | **Īśvara** (God)              |
+| **Avidyā**            | Impure Sattva (_Malina-sattva_) | **Jīva** (Individual)         |
+| **Tamah-pradhāna**    | Dominant Tamas                  | **Bhūta-Bhautika** (Elements) |
 
