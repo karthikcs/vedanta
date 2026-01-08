@@ -281,3 +281,8 @@ The definition of the character of Primordial Nature (प्रकृति)
 Prakriti is essentially a "mirror" made of three qualities that catches the reflection of the Absolute. Depending on how clean that mirror is (the quality of Sattva), it is called either _Maya_ or _Avidya_.
 
 
+>[!tip]- Read more about 3 fundamental gunas
+>[[Vedanta Notes/General Terms/3 Fundamental Qualities - त्रिगुण\|3 Fundamental Qualities - त्रिगुण]]
+
+
+
