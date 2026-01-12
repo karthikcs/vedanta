@@ -200,7 +200,7 @@ Through logical reasoning, the Self is proven to be of the nature of Existence, 
 
 The author is emphasizing that this isn't "blind faith." You don't have to believe in a far-off God to understand this. By simply analyzing your own experience—the fact that you exist, that you are aware, and that you love your own life—you can logically conclude that your true nature is **Existence-Consciousness-Bliss.**
 
-**आत्मनः परमानन्दरूपत्वे  विप्रतिपत्तिमशक्या  परिहरति, अभान  इति**
+**आत्मनः परमानन्दरूपत्वे  विप्रतिपत्तिमशक्या  परिहरति**
 
 After establishing the nature of Self as the same as Brahma, we still have doubt if that is true. Because normally we don't recognize it. We always feel sorrow, we are in pain, we feel limited. Then how can we be the same as brahma. In the upcoming verses this doubt will be addressed
 
@@ -367,4 +367,187 @@ This indicates the material cause for the creation of universe is the तमः�
 | **Māyā**              | Pure Sattva (_Śuddha-sattva_)   | **Īśvara** (God)              |
 | **Avidyā**            | Impure Sattva (_Malina-sattva_) | **Jīva** (Individual)         |
 | **Tamah-pradhāna**    | Dominant Tamas                  | **Bhūta-Bhautika** (Elements) |
+
+5 Basic elements in subtle form are arose from the same Prakruti
+
+- **Viyat:** Ether (Space)
+- **Pavana:** Air
+- **Tejas:** Fire
+- **Ambu:** Water
+- **Bhuvaḥ:** Earth
+
+>[!tip]- Read more about 5 basic elements पंच महाभूतानि
+>[[Vedanta Notes/General Terms/5 Basic Elements - पंच महाभूतानि\|5 Basic Elements - पंच महाभूतानि]]
+
+
+
+Creation of sensory capabilities (ज्ञानेन्द्रिय सृष्टि)
+## Shloka 19:
+
+सत्त्वांशैः पञ्चभिस्तेषां क्रमाद्धीन्द्रियपञ्चकम् । 
+श्रोत्रत्वगक्षिरसनघ्राणाख्यमुपजायते ॥ १९ ॥
+
+The sense organs do not come from nothingness; they are born from the **five elements** (Ether, Air, Fire, Water, and Earth). As we saw in the previous verses, the elements are "Tamasic" (material). However, the commentator emphasizes that it is the **Sattva-portion** of these elements that becomes the senses.
+
+**Why Sattva?** Sattva is light, clarity, and knowledge. Since the job of the senses is to "bring light" or "bring knowledge" about the world to the mind, they must be made of the Sattvic essence of matter.
+
+| **Sense Organ (धीन्द्रिय)**  | **Object it Grasps (ग्राहक)** | **Element of Origin** |
+| ---------------------------- | ----------------------------- | --------------------- |
+| Sense of hearing (श्रोत्र)   | Sound (शब्द)                  | Ether (Viyat)         |
+| Sense of touch/feel (त्वक् ) | Touch (स्पर्श )               | Air (Vayu)            |
+| Sense of vision (अक्षि )     | Form/Color (रूप )             | Fire (Tejas)          |
+| Sense of taste (रसन)         | Taste (रस )                   | Water (Ap)            |
+| Sense of smell (घ्राण)       | Smell (गन्ध)                  | Earth (Prithvi)       |
+
+We need keep in mind here that, the organ is not referring to the physical organ like ear, skin, eye, tongue, and nose instead of the internal capability of hearing, feeling, seeing, tasting and smelling. 
+
+
+Creation of internal organ (अन्तःकरणम्)
+## Shloka 20:
+
+तैरन्तःकरणं सर्वैर्वृत्तिभेदेन तद्विधा **।** 
+मनो विमर्शरूपं स्याद्बुद्धिः स्यान्निश्चयात्मिका ॥ २० ॥
+
+While the previous verse explained how the _individual_ Sattva-parts of elements create the five senses, this verse explains what happens when the Sattva-parts of **all five elements combine**
+
+The "Internal Instrument" (_Antahkarana_) is a **collective product**.
+
+- The **Mind/Intellect** comes from the **sum total** (_Samashti_) of the Sattva from all five elements (Ether + Air + Fire + Water + Earth). This is why the mind can process sound, touch, sight, taste, and smell all at once.
+
+The text simplifies the internal instrument into two primary functions (modes). As we discussed earlier, although there are often four divisions, here they are merged into two:
+
+**Manas (Mind):** This is the state of "Vimarsha" (wavering or pondering). It is the indecisive faculty that asks "Is it this or is it that?" (_Sankalpa-Vikalpa_). It is the part of you that feels, desires, and reacts
+
+**Buddhi (Intellect):** This is the "Nishchaya" (determining) faculty. It is the part of you that judges, evaluates, and comes to a conclusion: "This is a pot," or "This is my duty."
+
+
+
+## Shloka 21:
+
+रजोऽंशैः पञ्चभिस्तेषां क्रमात्कर्मेन्द्रियाणि तु । 
+वाक्पाणिपादपायूपस्थाभिधानानि जज्ञिरे ॥ २१ ॥
+
+Just like the senses, these organs are born from the **individual** Rajasic portions of the 5 elements.
+
+Following table gives one on one relationship 
+
+| **Element** | **Nature of the Rajas** | Action Organ (कर्मेन्द्रिय) | **Specific Action**        |
+| ----------- | ----------------------- | --------------------------- | -------------------------- |
+| **Ether**   | Vibration/Space         | Speech (वाक्)               | Speaking / Expression      |
+| **Air**     | Movement/Grasping       | Hands (पाणि)                | Handling / Giving & Taking |
+| **Fire**    | Speed/Motion            | Feet (पाद)                  | Walking / Locomotion       |
+| **Water**   | Flow/Cleansing          | Anus (पायु)                 | Elimination / Excretion    |
+| **Earth**   | Density/Structure       | Genitals (उपस्थ)            | Procreation / Pleasure     |
+
+
+## Shloka 22:
+
+तैः सर्वैः सहितैः प्राणो वृत्तिभेदात्स पञ्चधा । 
+प्राणोऽपानः समानश्चोदानव्यानौ च ते पुनः ॥ २२ ॥
+
+While the organs of action (like hands) come from the _individual_ Rajas-portions of elements, the **Prana** is born from the **combined (total) Rajasic portions** of all five elements (Ether, Air, Fire, Water, and Earth).
+
+- Because it is a "collective" energy, it is capable of sustaining the entire body.
+- Just as the mind (Total Sattva) can process all types of knowledge, the Prana (Total Rajas) can power all types of physical movements and biological functions.
+ 
+
+The life-force is essentially one, but it is named in five ways based on the **direction** and **purpose** of its movement within the body:
+
+| **Name of Prana** | **Function/Direction** | **Physical Location/Role**                           |
+| ----------------- | ---------------------- | ---------------------------------------------------- |
+| **Prāṇa**         | Upward / Outward       | Respiration (located in the heart/nose).             |
+| **Apāna**         | Downward               | Excretion and reproduction (waste removal).          |
+| **Samāna**        | Central / Balanced     | Digestion and assimilation (in the navel).           |
+| **Udāna**         | Ascending              | Speech, swallowing, and "rising" at death.           |
+| **Vyāna**         | Pervasive              | Circulation of blood and energy throughout the body. |
+
+
+## Shloka 23:
+
+बुद्धिकर्मेन्द्रियप्राणपञ्चकैर्मनसा धिया ।  
+शरीरं सप्तदशभिःसूक्ष्मं तल्लिङ्गमुच्यते ॥ २३ ॥
+
+The verse groups these 17 elements into five categories:
+
+1. **Buddhi-pañcaka (5):** The five organs of perception or knowledge (_Jnana-indriyas_): Ear, Skin, Eye, Tongue, and Nose.
+2. **Karmēndriya-pañcaka (5):** The five organs of action: Speech, Hands, Feet, and the organs of excretion and procreation.
+3. **Prāṇa-pañcaka (5):** The five vital airs: Prana, Apana, Samana, Udana, and Vyana.
+4. **Manas (1):** The doubting or indecisive mind.
+5. **Dhī (1):** The determining intellect (_Buddhi_).
+
+**Total:**  $5 + 5 + 5 + 1 + 1 = 17 
+
+Together they are called as लिङ्ग शरीर (Linga shareera)
+
+
+## Shloka 24:
+
+प्राज्ञस्तत्राभिमानेन तैजसत्वं प्रपद्यते । 
+हिरण्यगर्भतामीशस्तयोर्व्यष्टिसमष्टिता ॥ २४ ॥
+
+
+By identifying with this (subtle body), the _Prajna_ (the soul in the causal state) becomes _Taijasa_ (the luminous one). Similarly, the Lord (_Isha_), by identifying with the collective (subtle body), becomes _Hiranyagarbha_. The difference between the two is that of the individual (_Vyashti_) and the collective (_Samashti_).
+
+- **व्यष्टि (Individual level) :** When the individual soul (_Prajna_), which was previously in the deep-sleep/causal state, identifies with its own 17-part subtle body, it is called **Taijasa** (associated with the dream state).
+    
+- **समष्टि (Cosmic level) :** When the Supreme Lord (_Ishvara_), previously in the causal state, identifies with the total collective of all subtle bodies in the universe, He is called **Hiranyagarbha** (Cosmic Mind).
+
+
+## Shloka 25:
+
+समष्टिरीशस्तत्सर्वेषां स्वात्मतादात्म्यवेदनात् । 
+तदभावात्ततोऽन्ये तु कथ्यन्ते व्यष्टिसंज्ञया ॥ २५ ॥
+
+This verse explains the psychological and philosophical basis for the distinction between the "Total (Cosmic)" and the "Part (Individual)"
+
+Ishvara (or Hiranyagarbha in this context) is called **Samashti** because He feels identity with all subtle bodies as His own self (_svātma_).
+
+Just as you feel that your hands, feet, and head are all "you" despite being different parts, the Cosmic Mind (Hiranyagarbha) feels that every single mind and body in the universe is His own body. This total, undivided awareness is called **Samashti**
+
+
+**पञ्चीकरण विवरणम्** 
+## Shloka 26:
+
+तद्भोगाय पुनर्भोग्यभोगायतनजन्मने । 
+पञ्चीकरोति भगवान् प्रत्येकं वियदादिकम् ॥ २६ ॥
+
+This verse explains the "Why" and "How" behind the creation of the physical, tangible, gross universe.
+
+**The Purpose: "Tad-bhōgāya" (For that enjoyment)**
+
+- **Context:** In the previous verses, we saw the creation of the **Subtle Body** (_Sukshma Sharira_).
+- **The Problem:** The subtle body (mind, senses, pranas) needs a physical "field" to actually experience the world and a physical "house" to live in.
+- **The Solution:** To provide the means for experience (_bhōgya_) and the location for experience (_bhōgāyatana_—the gross physical body), the Lord initiates the next stage of creation.
+
+**The Process: "Pañcīkarōti" (Quintuplication)**
+
+- The word _Panchikarana_ means "making into five".
+- **Bhagavan** (the Lord/Ishvara) takes each of the five subtle elements—starting with **Viyad-adikam** (Ether and the others)—and mixes them together in a specific mathematical proportion.
+- Until this mixing happens, the elements are "subtle" (_tanmatras_) and cannot be seen or touched. After _Panchikarana_, they become the "gross" elements (_Mahabhutas_) that form the physical earth, water, fire, air, and space we perceive.
+
+
+## Shloka 27:
+
+द्विधा विधाय चैकैकं चतुर्धा प्रथमं पुनः ।  
+स्वस्वेतरद्वितीयांशैर्योजनात्पञ्च पञ्च ते ॥ २७ ॥
+
+This verse provides the "recipe" used by the Lord (_Bhagavan_) to create physical matter. To make a single **Gross Element** (like Gross Earth), the following steps occur:
+
+The Formula for a Gross Element ($G$):
+
+$$G_{Element} = \frac{1}{2}(\text{Own Subtle Element}) + \frac{1}{8}(\text{Subtle A}) + \frac{1}{8}(\text{Subtle B}) + \frac{1}{8}(\text{Subtle C}) + \frac{1}{8}(\text{Subtle D})$$
+
+| **Gross Element** | **Composition**                                                |     |
+| ----------------- | -------------------------------------------------------------- | --- |
+| **Gross Earth**   | $50\%$ Subtle Earth + $12.5\%$ each of Space, Air, Fire, Water |     |
+| **Gross Water**   | $50\%$ Subtle Water + $12.5\%$ each of Space, Air, Fire, Earth |     |
+| **Gross Fire**    | $50\%$ Subtle Fire + $12.5\%$ each of Space, Air, Water, Earth |     |
+| **Gross Air**     | $50\%$ Subtle Air + $12.5\%$ each of Space, Fire, Water, Earth |     |
+| **Gross Space**   | $50\%$ Subtle Space + $12.5\%$ each of Air, Fire, Water, Earth |     |
+
+>[!tip]- Read more about Pancheekaranam 
+>[[Vedanta Notes/General Terms/Panchikaranam (पंचीकारणं)\|Panchikaranam (पंचीकारणं)]]
+
+
+This explains why every physical object we touch (like a stone) contains all five elements. We call it "Earth" only because the Earth element is the dominant part ($50\%$) of that mixture.
 
