@@ -546,7 +546,9 @@ $$G_{Element} = \frac{1}{2}(\text{Own Subtle Element}) + \frac{1}{8}(\text{Subtl
 | **Gross Space**   | $50\%$ Subtle Space + $12.5\%$ each of Air, Fire, Water, Earth |     |
 
 >[!tip]- Read more about Pancheekaranam 
-> [[Panchikaranam (पंचीकारणं).svg]]
+>[[Vedanta Notes/General Terms/Panchikaranam (पंचीकारणं)\|Panchikaranam (पंचीकारणं)]]
+>
+
 
 
 This explains why every physical object we touch (like a stone) contains all five elements. We call it "Earth" only because the Earth element is the dominant part ($50\%$) of that mixture.
