@@ -554,3 +554,96 @@ $$G_{Element} = \frac{1}{2}(\text{Own Subtle Element}) + \frac{1}{8}(\text{Subtl
 
 This explains why every physical object we touch (like a stone) contains all five elements. We call it "Earth" only because the Earth element is the dominant part ($50\%$) of that mixture.
 
+
+## Shloka 28:
+
+तैरण्डस्तत्र भुवनं भोग्यभोगाश्रयोद्भवः । 
+हिरण्यगर्भस्थूलेऽस्मिन् देहे वैश्वानरो भवेत् ॥ २८ ॥
+
+From those (quintuplicated elements) arises the Cosmic Egg (_Brahmanda_), and within it, the various worlds and the physical bodies which are the seats of enjoyment. When the cosmic consciousness (_Hiranyagarbha_) identifies with this gross physical body, He is called **Vaishvanara**.
+
+
+## Shloka 29:
+
+तैजसा विश्वतां याता देवतिर्यङ्नरादयः । 
+ते पराग्दर्शिनः प्रत्यक्तत्त्वबोधविवर्जिताः ॥ २९ ॥
+
+This verse describes the state of the individual soul (_Jiva_) once it identifies with a physical, gross body.
+
+The Transformation to "Vishva"**
+
+The text explains that those who were in the **Taijasa** state (identifying with the subtle body/dream state) now become **Vishva**.
+
+- **Vishva** is the name for the Jiva when it identifies with the **Gross Physical Body** in the **Waking State**.
+    
+- This applies to all sentient beings, including **Devas** (celestial beings), **Tiryaga** (animals/birds), and **Nara** (humans).
+
+
+The verse highlights the fundamental spiritual problem of these physical beings:
+**Parāg-darśinaḥ:** They are "externally oriented". Their senses and mind are constantly looking outward at the objects of the world for happiness.
+**Pratyak-tattva-bōdha-vivarjitāḥ:** They are "devoid of the knowledge of the Inner Self". Because they are so focused on the outside world, they have completely forgotten their true nature as the Absolute Brahman.
+
+
+Summary of the names we give to individual self (व्यष्टि) and cosmic (समष्टि)
+
+| **State of Consciousness** | **Individual Title (Vyashti)** | **Cosmic Title (Samashti)** | **Body Identification** |
+| -------------------------- | ------------------------------ | --------------------------- | ----------------------- |
+| Deep Sleep                 | Prajna                         | Ishvara                     | Causal Body (_Karana_)  |
+| Dream                      | Taijasa                        | Hiranyagarbha               | Subtle Body (_Sukshma_) |
+| Waking                     | Vishva                         | Vaishvanara                 | Gross Body (_Sthula_)   |
+
+**जीवस्य संसारप्राप्तितन्निवृत्तिविवरणम् ।**
+## Shloka 30:
+
+कुर्वते कर्म भोगाय कर्म कर्तुं च भुञ्जते । 
+नद्यां कीटा इवावर्तादावर्तान्तरमाशु ते ॥ 
+व्रजन्तो जन्मनो जन्म लभन्ते नैव निर्वृतिम् ॥ ३० ॥
+
+This verse uses a vivid analogy to describe the "trap" of worldly existence (_Samsara_).
+
+**The Cycle of Action and Enjoyment**
+
+- **Kurvatē karma bhōgāya:** Souls perform actions (_Karma_) in order to experience pleasure or enjoyment (_Bhoga_).
+- **Karma kartuṃ ca bhuñjatē:** In order to perform more actions, they must take birth and experience the fruits of previous actions. This creates a self-sustaining loop where action leads to experience, and experience leads to more action.
+
+**The Analogy of Insects in a River**
+
+- **Nadyāṃ kīṭā iva:** The verse compares individual souls to tiny insects caught in a fast-flowing river.
+- **Āvartād-āvartāntaram:** Just as an insect is swept from one whirlpool (_Avarta_) to another, the soul is swept from one experience or one life to the next.
+- **Āśu tē:** This movement is rapid and relentless.
+    
+
+**Perpetual Rebirth**
+
+- **Vrajantō janmanō janma:** They move from birth to birth in an endless succession.
+- **Labhantē naiva nirvṛtim:** In this restless cycle, they never find true peace or final cessation (_Nirvriti_).
+
+
+## Shloka 31:
+
+सत्कर्मपरिपाकात्ते करुणानिधिनोद्धृताः । 
+प्राप्य तीरतरुच्छायां विश्राम्यन्ति यथासुखम् ॥ ३१ ॥
+
+This verse provides the "escape route" for the soul trapped in the whirlpool of rebirth described in the previous verse.
+
+The verse describes the specific moment an individual soul (_Jiva_) is rescued from the "whirlpool" of _Samsara_. It highlights three critical factors in this process:
+
+- **The Catalyst (Merit):** The soul's liberation is triggered by the **maturity of good actions** (_Sat-karma-paripākāt_) performed over many lifetimes.
+- **The Savior (Grace):** Once this merit is ripe, a **compassionate teacher** or God, described as a "treasure-house of mercy" (_Karuṇā-nidhi_), intervenes to lift the soul out of the relentless flow of worldly existence.
+- **The Result (Peace):** The soul is brought to a place of safety, metaphorically described as the **shade of a tree on the riverbank**, where it can finally rest and find true happiness 
+
+
+## Shloka 32:
+
+उपदेशमवाप्यैवमाचार्यात्तत्त्वदर्शिनः । 
+पञ्चकोशविवेकन लभन्ते निर्वृतिं पराम् ॥ ३२ ॥
+
+The verse outlines the transition from receiving external guidance to performing internal inquiry:
+
+- **The Source of Knowledge:** The seeker receives formal spiritual instruction (_Upadesha_) from an **Acharya** (teacher) who is a **Tattva-darshin** (one who has personally realized the Truth).
+- **The Method of Inquiry:** The core practice prescribed is **Pancha-kosha-viveka**, which is the systematic intellectual discrimination between the Self and the **Five Sheaths** (physical, vital, mental, intellectual, and causal) that currently obscure our true nature.
+- **The Final Goal:** By successfully separating the Self from these non-self layers through inquiry, the seeker attains **Param Nirvritim**—the supreme, unconditional peace of Brahman.
+
+
+**पचकोश विवरणम्** 
+
