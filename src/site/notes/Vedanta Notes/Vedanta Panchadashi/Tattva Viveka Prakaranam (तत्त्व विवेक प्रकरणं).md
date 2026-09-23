@@ -755,10 +755,11 @@ Till now we have seen 5 Sheaths (Koshas), where we usually associate ourselves w
 
 ## Shloka 37:
 
-पितृभुक्तान्नजाद्विण्डात् जातोज्न्नेनैव वर्धते ।
-देहाः सोऽन्नमयो नात्मा प्राक् चोर्ध्वं तदभावतः ॥ ३७ ॥
+अन्वयव्यतिरेकाभ्यां पञ्चकोशविवेकतः ।
+स्वात्मानं तत उद्धृत्य परं ब्रह्म प्रपद्यते ॥ ३७ ॥
 
-Meaning: "Born from the physical seed produced by food eaten by the parents, the gross body grows by food alone. This gross body is the Annamaya Kosha (Food Sheath); it cannot be the Self, because it did not exist before birth and will not exist after death."
+**Summary of Meaning**
+This verse marks the shift to the practical method of self-realization (Panchakosha Viveka):
 
 
 
