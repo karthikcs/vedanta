@@ -741,6 +741,8 @@ This verse describes the nature of the causal body and the reason why the infini
     - **Location and Nature**: It exists in the **Causal Body** (_kāraṇē_) and consists of **Sattva** guna.
         
     - **Function**: It manifests as various "modes of bliss" (_vṛttibhiḥ_) such as **Moda** (joy upon seeing a desired object), **Pramoda** (greater joy upon obtaining it), and **Priyam** (the joy of possession). This is the sheath experienced during deep sleep.
+	
+	Read more details about how Karana shareera experiences joy here [[Vedanta Notes/General Terms/Stages of Mental Joy\|Stages of Mental Joy]]
         
 - **The Mechanism of Identification (_Tādātmya_):**
     
@@ -748,4 +750,16 @@ This verse describes the nature of the causal body and the reason why the infini
         
     - When the Self identifies with the physical sheath, it thinks "I am hungry"; with the mental sheath, "I am sad"; and with the bliss sheath, "I am happy".
 
-Read more details about how Karana shareera experiences joy here [[Vedanta Notes/General Terms/Stages of Mental Joy\|Stages of Mental Joy]]
+
+Till now we have seen 5 Sheaths (Koshas), where we usually associate ourselves with those sheaths (अध्यारोप). As per Vedanta our self (Atma) is not associated with any of these sheaths by the technique of negation (अपवाद)
+
+## Shloka 37:
+
+पितृभुक्तान्नजाद्विण्डात् जातोज्न्नेनैव वर्धते ।
+देहाः सोऽन्नमयो नात्मा प्राक् चोर्ध्वं तदभावतः ॥ ३७ ॥
+
+Meaning: "Born from the physical seed produced by food eaten by the parents, the gross body grows by food alone. This gross body is the Annamaya Kosha (Food Sheath); it cannot be the Self, because it did not exist before birth and will not exist after death."
+
+
+
+
