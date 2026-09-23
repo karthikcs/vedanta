@@ -747,3 +747,5 @@ This verse describes the nature of the causal body and the reason why the infini
     - The verse explains that the pure **Atman** (Self) appears to become "that" (_tanmayaḥ_)—meaning it appears to take on the qualities of the sheaths—due to **identification** (_tādātmyād_) with each respective layer.
         
     - When the Self identifies with the physical sheath, it thinks "I am hungry"; with the mental sheath, "I am sad"; and with the bliss sheath, "I am happy".
+
+Read more details about how Karana shareera experiences joy here [[Vedanta Notes/General Terms/Stages of Mental Joy\|Stages of Mental Joy]]
