@@ -762,5 +762,6 @@ Till now we have seen 5 Sheaths (Koshas), where we usually associate ourselves w
 This verse marks the shift to the practical method of self-realization (Panchakosha Viveka):
 
 
+The Method (Anvaya-Vyatireka): By applying logical discrimination using Anvaya (presence/co-existence: Consciousness is present in all states) and Vyatireka (absence/negation: the sheaths are absent or changing while Consciousness remains).
 
 
