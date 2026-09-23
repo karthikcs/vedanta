@@ -12,6 +12,7 @@
 सदा शिव समारंभां  शंकराचार्य मध्यमाम्॥
 अस्मद् आचार्य पर्यन्तां  वन्दे गुरु परंपराम्॥ 
 
+This Journal is published in this website https://vedanta-jijnasa.vercel.app/
 
 In this journal let us learn about basic concepts of Vedanta philosophy
 
@@ -24,6 +25,7 @@ In this journal we will study different works by great scholars like Adi #Shanka
 ## [[Vedanta Notes/Viveka Chudamani/Viveka Chudamani (विवेक चूडामणिः  )\|Viveka Chudamani (विवेक चूडामणिः  )]]
 
 This work is by Adi Shankaraacharya and it explains all the important points of #advaita #sidhanta. It is considered as one of the foundational books to be studied by a student of #vedanta 
+
 
 ## [[Vedanta Notes/Vedanta Panchadashi/Vedanta Panchadashi (वेदान्त पंचदशी)\|Vedanta Panchadashi (वेदान्त पंचदशी)]]
 

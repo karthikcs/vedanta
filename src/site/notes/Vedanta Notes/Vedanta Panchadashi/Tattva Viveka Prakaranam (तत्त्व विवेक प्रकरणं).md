@@ -645,5 +645,105 @@ The verse outlines the transition from receiving external guidance to performing
 - **The Final Goal:** By successfully separating the Self from these non-self layers through inquiry, the seeker attains **Param Nirvritim**—the supreme, unconditional peace of Brahman.
 
 
-**पचकोश विवरणम्** 
+**पञ्चकोश विवरणम्** 
 
+## Shloka 33:
+
+अन्नं प्राणो मनो बुद्धिरानन्दश्चेति पञ्च ते ।
+कोशास्तैरावृतस्स्वात्मा विस्मृत्या संसृतिं व्रजेत् ॥ ३३ ॥
+
+
+This verse defines the sheaths that "cover" the true Self and explains why we remain trapped in the cycle of birth and death.
+
+**The Five Sheaths Named**
+
+The verse lists the five layers (_Koshas_) that constitute the human personality:
+- **Anna (Annamaya):** The physical body made of food.
+- **Prāṇa (Pranamaya):** The vital energy or life-force.
+- **Manaḥ (Manomaya):** The mental layer of thoughts and emotions.
+- **Buddhi (Vijnanamaya):** The intellectual layer of logic and decision-making.
+- **Ānanda (Anandamaya):** The causal layer of bliss or deep-seated tendencies.
+
+The verse identifies the structure of the human personality and the root cause of worldly suffering:
+
+- **The Five Sheaths:** It lists the specific layers that constitute the individual: **Anna** (Physical), **Prana** (Vital), **Manas** (Mental), **Buddhi** (Intellectual), and **Ananda** (Bliss/Causal).
+    
+- **The Veiling Effect:** The verse states that these sheaths "cover" or veil the **Svatma** (True Self). Because the Self is hidden behind these layers, its true nature is obscured.
+    
+- **The Cycle of Samsara:** Due to this veiling, the individual **forgets** (_vismrtya_) their true identity as Brahman. This forgetfulness leads the soul to identify with the body and mind, causing it to wander through the endless cycle of birth and death (_samsrti_).
+- 
+
+|**Stage**|**Description**|
+|---|---|
+|**Structure**|The Self is surrounded by five distinct layers of matter and energy.|
+|**Obscuration**|Identification with these layers hides the light of pure Consciousness.|
+|**Forgetfulness**|The soul loses the knowledge of its own eternal, divine nature.|
+|**Entrapment**|The soul enters the cycle of rebirth (_Samsara_) looking for happiness in the sheaths.|
+
+
+## Shloka 34:
+
+स्यात्पञ्चीकृतभूतोत्थो देहस्थूलोऽन्नसंज्ञिकः । 
+लिङ्गे तु राजसैः प्राणैः प्राणः कर्मेन्द्रियैःसह ॥ ३४ ॥
+
+The verse explains what these sheaths are made of and how they are categorized:
+
+- **The Food Sheath (Annamaya Kosha):**
+    
+    - **Origin:** It is produced from the five gross elements that have undergone the process of **Panchikarana** (quintuplication).
+        
+    - **Nature:** This is the visible, physical body (_sthula-deha_).
+        
+    - **Naming:** It is called the "Food Sheath" because it is an modification of food—born from it and sustained by it.
+        
+- **The Vital Sheath (Pranamaya Kosha):**
+    
+    - **Location:** This sheath exists within the **Linga-sharira** (subtle body).
+        
+    - **Components:** It is composed of the **five Pranas** (the vital life-breaths: Prana, Apana, Vyana, Udana, and Samana) combined with the **five Karma-indriyas** (organs of action: speech, hands, feet, excretion, and procreation).
+        
+    - **Nature:** It represents the active, energetic aspect of the individual, derived from the **Rajasic** portion of the elements.
+
+## Shloka 35:
+
+सात्त्विकैर्धीन्द्रियैःसाकं विमर्शात्मा मनोमयः ।** 
+तैरेव साकं विज्ञानमयो धीर्निश्चयात्मिका ॥ ३५ ॥
+
+**Summary of Meaning**
+
+This verse describes the two psychological layers of the **Subtle Body** (_Linga-sharira_), distinguishing between the doubting mind and the deciding intellect:
+
+- **The Mental Sheath (Manomaya Kosha):**
+    
+    - **Constituents**: It is composed of the **five sense organs** (_dhīndriyaiḥ_)—which are born from the **Sattvic** aspect of the elements—combined with the **Manas** (mind).
+        
+    - **Nature**: Its function is **Vimarśa**, meaning it is characterized by doubt, desire, and wavering thoughts.
+        
+- **The Intellectual Sheath (Vijnanamaya Kosha):**
+    
+    - **Constituents**: It is also composed of the same **five sense organs** (_tairēva sākaṃ_) but combined with the **Buddhi** (intellect).
+        
+    - **Nature**: Its function is **Niścayātmikā**, meaning it is the faculty of determination, logic, and firm decision-making.
+
+
+## Shloka 36:
+
+कारणे सत्त्वमानन्दमयो मोदादिवृत्तिभिः । 
+तत्तत्कोशैस्तु तादात्म्यादात्मा तत्तन्मयो भवेत् ॥ ३६ ॥
+
+
+### **Summary of Meaning**
+
+This verse describes the nature of the causal body and the reason why the infinite Self appears to be a limited individual:
+
+- **The Bliss Sheath (Anandamaya Kosha):**
+    
+    - **Location and Nature**: It exists in the **Causal Body** (_kāraṇē_) and consists of **Sattva** guna.
+        
+    - **Function**: It manifests as various "modes of bliss" (_vṛttibhiḥ_) such as **Moda** (joy upon seeing a desired object), **Pramoda** (greater joy upon obtaining it), and **Priyam** (the joy of possession). This is the sheath experienced during deep sleep.
+        
+- **The Mechanism of Identification (_Tādātmya_):**
+    
+    - The verse explains that the pure **Atman** (Self) appears to become "that" (_tanmayaḥ_)—meaning it appears to take on the qualities of the sheaths—due to **identification** (_tādātmyād_) with each respective layer.
+        
+    - When the Self identifies with the physical sheath, it thinks "I am hungry"; with the mental sheath, "I am sad"; and with the bliss sheath, "I am happy".
