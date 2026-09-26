@@ -31,7 +31,7 @@ In some Advaita texts like Vedanta Panchadashi, only 2 types of internal organ (
 | **Memory (चित्त)**     | **Chintana**         | The "recollecting" mode. It is the storehouse of past impressions (_Vasanas_) and the sub-conscious mind that recalls data.          |
 | **Ego (अहंकार)**       | **Abhimana**         | The "arrogating" mode. It is the function that attaches the "I" to an action, saying "I am the doer" or "I am happy."                |
 
-Some Vedanti merge internal organ as Manas group and Buddhi group. 
+Some Vedantins merge internal organ as Manas group and Buddhi group. 
 
-Manas group: **Manas** and **Chitta** are merged.
-Buddhi group: **Buddhi** and **Ahamkara** are merged.
+Manas group: **Manas** and **Chitta** are considered together.
+Buddhi group: **Buddhi** and **Ahamkara** are seen together.

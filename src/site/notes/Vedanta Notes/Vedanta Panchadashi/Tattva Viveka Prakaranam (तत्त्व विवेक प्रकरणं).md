@@ -713,6 +713,10 @@ The verse explains what these sheaths are made of and how they are categorized:
 
 This verse describes the two psychological layers of the **Subtle Body** (_Linga-sharira_), distinguishing between the doubting mind and the deciding intellect:
 
+>[!tip]- More about subtle body 
+> [[Vedanta Notes/General Terms/17 Components of subtle body (सूक्ष्म शरीर)\|17 Components of subtle body (सूक्ष्म शरीर)]]
+
+
 - **The Mental Sheath (Manomaya Kosha):**
     
     - **Constituents**: It is composed of the **five sense organs** (_dhīndriyaiḥ_)—which are born from the **Sattvic** aspect of the elements—combined with the **Manas** (mind).
