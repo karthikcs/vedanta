@@ -759,9 +759,32 @@ Till now we have seen 5 Sheaths (Koshas), where we usually associate ourselves w
 स्वात्मानं तत उद्धृत्य परं ब्रह्म प्रपद्यते ॥ ३७ ॥
 
 **Summary of Meaning**
-This verse marks the shift to the practical method of self-realization (Panchakosha Viveka):
+This shloka marks the shift to the practical method of self-realization through the method of Anvaya-Vyatireka. By applying logical discrimination using Anvaya (presence/co-existence: Consciousness is present in all states) and Vyatireka (absence/negation: the sheaths are absent or changing while Consciousness remains).
 
+## Shloka 38:
 
-The Method (Anvaya-Vyatireka): By applying logical discrimination using Anvaya (presence/co-existence: Consciousness is present in all states) and Vyatireka (absence/negation: the sheaths are absent or changing while Consciousness remains).
+अभाने स्थूलदेहस्य स्वप्ने यद्भानमात्मनः ।
+सोऽन्वयो व्यतिरेकस्तद्भानैऽन्यानवभासनम् ॥ ३८ ॥
 
+This shloka uses the experience of the dream state to logically prove that the Self (Atman) is distinct from the physical body (Annamaya Kosha) using the principle of Anvaya-Vyatireka
 
+### Anvaya (Presence of the Self without the Body):
+When you dream, your gross physical body lies unconscious on the bed. Yet, you still exist, experience, and feel aware. Because Consciousness continues to persist even when the physical body is completely forgotten, Consciousness (Atman) is independent of the physical body. This persistence is called Anvaya.
+
+### Vyatireka (Absence of Self-Illumination in the Body):
+The physical body cannot illuminate itself or experience anything without Consciousness. When the body is perceived in the waking state, its awareness depends entirely on the Atman; the body itself is inert matter (Annamaya Kosha). This non-self-luminosity of the body is Vyatireka.
+
+## Shloka 39
+
+लिङ्गाभाने सुषुपौ स्यादात्मनो भानमन्वयः ।
+व्यतिरेकस्तु तद्भान लिङ्गस्याभानमुच्यते ॥ ३९ ॥
+
+Now let's analyze dream started and deep sleep started 
+
+### Anvaya (Co-presence of Consciousness): 
+
+In deep sleep the subtle body (liṅga)—comprising the mind, intellect, pranas, and senses—is completely unmanifest or non-perceived. Yet, the Self/Consciousness persists as proven by the memory upon waking: "I slept peacefully, I knew nothing". This continued existence of the Self without the subtle body is Anvaya. 
+
+### Vyatireka (Co-absence of the Subtle Body): 
+
+On the other hand, while the Self shines eternally the subtle body disappears during deep sleep .This impermanence of the subtle body relative to the eternal Atman is called Vyatireka
