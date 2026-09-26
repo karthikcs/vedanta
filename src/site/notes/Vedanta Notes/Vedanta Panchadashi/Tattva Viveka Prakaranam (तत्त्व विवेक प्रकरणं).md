@@ -801,4 +801,16 @@ On the other hand, while the Self shines eternally the subtle body disappears du
 
 Separation of the Inner Trio: In previous shloka we saw how the subtle body (Linga Sharira) as a collective unit is negated during deep sleep. This shloka clarifies that by discriminating the subtle body from the Atman, we simultaneously discriminate all three sheaths that compose it: Pranamaya (Prana), Manomaya (Mana/Mind), and Vijnanamaya (Dhi/Intellect).
 
+**Basis of Differentiation**: These three inner sheaths exist within that single subtle body and are distinguished from each other merely by the permutations of the Gunas (Sattva, Rajas) and their resulting functional states (avastha):  
+
+**Pranamaya**: Predominantly Rajas (action/energy).
+
+**Manomaya**: Sattva mixed with Rajas, in a state of doubt/deliberation (Vimarsa).
+
+**Vijnanamaya**: Sattva dominant, in a state of decision/determination (Niscaya).
+
+Thus, when the subtle body as a whole is recognized as non-Self, all three of these internal sheaths are automatically set aside.
+
+
+
 
