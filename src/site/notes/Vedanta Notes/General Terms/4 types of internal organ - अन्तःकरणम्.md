@@ -16,10 +16,9 @@
 - The sense of "I" or "me".
 - Related to identity and individuality.
 
-## Consciousness (चित्त)
+## Memory (चित्त)
 
-- The pure, infinite aspect of the mind.
-- The foundation for the other three components.
+- This represents the memory associated with all the previous experiences and helps othe parts of internal organs to perform mental actions 
 
 The above components are explained in difference only for clarity, but there are NO 4 components. It's only ONE organ, which takes different form as needed. Similar to a mobile phone can become a calling device, a camera, a music player and a data storage as necessary but the device itself is one. 
 

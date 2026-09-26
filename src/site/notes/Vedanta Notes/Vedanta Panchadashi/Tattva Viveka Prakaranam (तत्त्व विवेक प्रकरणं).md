@@ -788,3 +788,13 @@ In deep sleep the subtle body (liṅga)—comprising the mind, intellect, pranas
 ### Vyatireka (Co-absence of the Subtle Body): 
 
 On the other hand, while the Self shines eternally the subtle body disappears during deep sleep .This impermanence of the subtle body relative to the eternal Atman is called Vyatireka
+
+
+## Shloka 40
+
+तद्विवेकाद्विविक्ताःस्युः कोशाः प्राणमनोधियः ।
+ते हि तत्र गुणावस्थाभेदमात्रात्पृथक्कृताः ॥ ४० ॥
+
+Separation of the Inner Trio: In previous shloka we saw how the subtle body (Linga Sharira) as a collective unit is negated during deep sleep. This shloka clarifies that by discriminating the subtle body from the Atman, we simultaneously discriminate all three sheaths that compose it: Pranamaya (Prana), Manomaya (Mana/Mind), and Vijnanamaya (Dhi/Intellect).
+
+

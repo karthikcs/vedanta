@@ -19,7 +19,7 @@ Subtle body has 17 elements
 1. **Buddhi-pañcaka (5):** The five organs of perception or knowledge (_Jnana-indriyas_): Ear, Skin, Eye, Tongue, and Nose.
 2. **Karmēndriya-pañcaka (5):** The five organs of action: Speech, Hands, Feet, and the organs of excretion and procreation.
 3. **Prāṇa-pañcaka (5):** The five vital airs: Prana, Apana, Samana, Udana, and Vyana.
-4. **Manas (1):** The doubting or indecisive mind.
+4. **Manas (1):** The doubting, getting options, analyse or indecisive mind.
 5. **Dhī (1):** The determining intellect (_Buddhi_).
 
 Gross body is the physical body we all have. 
