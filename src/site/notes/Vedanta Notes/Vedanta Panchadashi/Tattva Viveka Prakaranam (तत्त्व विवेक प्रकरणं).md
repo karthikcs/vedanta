@@ -811,6 +811,40 @@ Separation of the Inner Trio: In previous shloka we saw how the subtle body (Lin
 
 Thus, when the subtle body as a whole is recognized as non-Self, all three of these internal sheaths are automatically set aside.
 
+## Shloka 41
+
+सुषुप्त्यभाने भानन्तु समाधावात्मनोऽन्वयः ।
+व्यतिरेकस्त्वात्मभाने सुषुप्त्यनवभासनम् ॥ ४१ ॥
+
+This shloka applies the logic of Anvaya-Vyatireka to negate the Causal Body (Karana Sharira / Anandamaya Kosha), which corresponds to the state of deep sleep
+
+**Anvaya** (Co-presence of the Atman):
+In the state of Nirvikalpa Samadhi, the ignorance and subtle bliss of deep sleep (suṣupti) are completely absent (suṣuptyabhānē). Yet, pure Consciousness/Self (Atman) alone continues to shine brightly (bhānantu samādhāv-ātmanō'nvayaḥ). Because Consciousness persists even when deep sleep/the causal sheath ceases, the Self is independent of the Anandamaya Kosha.  
+
+**Vyatireka** (Co-absence of Deep Sleep):
+While the light of the Self shines continuously (ātma-bhānē), the deep sleep state with its causal darkness/ignorance disappears (suṣupty-anavabhāsanam) during Samadhi. Since the Anandamaya Kosha disappears while the Self remains, it is proven to be non-eternal and separate from the Atman. 
+
+## Shloka 42
+
+यथा मुञ्जादिषीकैवमात्मा युक्त्या समुद्धृतः ।
+शरीरत्रितयाद्धीरैः परं ब्रह्मैव जायते ॥ ४२ ॥
+
+This concludes the process of Pancha Kosha Viveka by offering a famous Upanishadic metaphor: just as a tender stalk of grass is carefully extracted from its outer sheath, the wise seeker separates the Self (Atman) from the three bodies (Sharira-traya) through discrimination, realizing their true nature as Supreme Brahman.
+
+### Summary of the Entire Section (Verses 33–42)
+
+**Verses 33–36:** Defined the structure of the Five Sheaths (Annamaya, Pranamaya, Manomaya, Vijnanamaya, and Anandamaya) and how they veil the Self.  
+
+**Verse 37:** Introduced the methodology of Anvaya-Vyatireka to extricate the Self.  
+
+**Verses 38–41:** Applied this logical tool state-by-state across Waking (Jagrat), Dream (Svapna), Deep Sleep (Sushupti), and Samadhi to negate all three bodies.
+
+**Verse 42:** Reaffirmed the final fruit of this inquiry: the direct realization that Atman is Brahman.
+
+## Shloka 43
+
+
+
 
 
 
